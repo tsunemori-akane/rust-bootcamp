@@ -1,0 +1,4202 @@
+[
+  {
+    "final_rankings": "1",
+    "nationality": "SRB",
+    "standing_player2": "Novak Djokovic",
+    "age": 34,
+    "final_rankings__points": 11540
+  },
+  {
+    "final_rankings": "2",
+    "nationality": "RUS",
+    "standing_player2": "Daniil Medvedev",
+    "age": 25,
+    "final_rankings__points": 8640
+  },
+  {
+    "final_rankings": "3",
+    "nationality": "GER",
+    "standing_player2": "Alexander Zverev",
+    "age": 24,
+    "final_rankings__points": 7840
+  },
+  {
+    "final_rankings": "4",
+    "nationality": "GRE",
+    "standing_player2": "Stefanos Tsitsipas",
+    "age": 23,
+    "final_rankings__points": 6540
+  },
+  {
+    "final_rankings": "5",
+    "nationality": "RUS",
+    "standing_player2": "Andrey Rublev",
+    "age": 24,
+    "final_rankings__points": 5150
+  },
+  {
+    "final_rankings": "6",
+    "nationality": "ESP",
+    "standing_player2": "Rafael Nadal",
+    "age": 35,
+    "final_rankings__points": 4875
+  },
+  {
+    "final_rankings": "7",
+    "nationality": "ITA",
+    "standing_player2": "Matteo Berrettini",
+    "age": 25,
+    "final_rankings__points": 4568
+  },
+  {
+    "final_rankings": "8",
+    "nationality": "NOR",
+    "standing_player2": "Casper Ruud",
+    "age": 23,
+    "final_rankings__points": 4160
+  },
+  {
+    "final_rankings": "9",
+    "nationality": "POL",
+    "standing_player2": "Hubert Hurkacz",
+    "age": 24,
+    "final_rankings__points": 3706
+  },
+  {
+    "final_rankings": "10",
+    "nationality": "ITA",
+    "standing_player2": "Jannik Sinner",
+    "age": 20,
+    "final_rankings__points": 3350
+  },
+  {
+    "final_rankings": "11",
+    "nationality": "CAN",
+    "standing_player2": "Felix Auger-Aliassime",
+    "age": 21,
+    "final_rankings__points": 3308
+  },
+  {
+    "final_rankings": "12",
+    "nationality": "GBR",
+    "standing_player2": "Cameron Norrie",
+    "age": 26,
+    "final_rankings__points": 2945
+  },
+  {
+    "final_rankings": "13",
+    "nationality": "ARG",
+    "standing_player2": "Diego Schwartzman",
+    "age": 29,
+    "final_rankings__points": 2625
+  },
+  {
+    "final_rankings": "14",
+    "nationality": "CAN",
+    "standing_player2": "Denis Shapovalov",
+    "age": 22,
+    "final_rankings__points": 2475
+  },
+  {
+    "final_rankings": "15",
+    "nationality": "AUT",
+    "standing_player2": "Dominic Thiem",
+    "age": 28,
+    "final_rankings__points": 2425
+  },
+  {
+    "final_rankings": "16",
+    "nationality": "SUI",
+    "standing_player2": "Roger Federer",
+    "age": 40,
+    "final_rankings__points": 2385
+  },
+  {
+    "final_rankings": "17",
+    "nationality": "CHI",
+    "standing_player2": "Cristian Garin",
+    "age": 25,
+    "final_rankings__points": 2353
+  },
+  {
+    "final_rankings": "18",
+    "nationality": "RUS",
+    "standing_player2": "Aslan Karatsev",
+    "age": 28,
+    "final_rankings__points": 2351
+  },
+  {
+    "final_rankings": "19",
+    "nationality": "ESP",
+    "standing_player2": "Roberto Bautista Agut",
+    "age": 33,
+    "final_rankings__points": 2260
+  },
+  {
+    "final_rankings": "20",
+    "nationality": "ESP",
+    "standing_player2": "Pablo Carreno Busta",
+    "age": 30,
+    "final_rankings__points": 2230
+  },
+  {
+    "final_rankings": "21",
+    "nationality": "FRA",
+    "standing_player2": "Gael Monfils",
+    "age": 35,
+    "final_rankings__points": 2158
+  },
+  {
+    "final_rankings": "22",
+    "nationality": "GEO",
+    "standing_player2": "Nikoloz Basilashvili",
+    "age": 29,
+    "final_rankings__points": 2101
+  },
+  {
+    "final_rankings": "23",
+    "nationality": "USA",
+    "standing_player2": "Taylor Fritz",
+    "age": 24,
+    "final_rankings__points": 2050
+  },
+  {
+    "final_rankings": "24",
+    "nationality": "USA",
+    "standing_player2": "John Isner",
+    "age": 36,
+    "final_rankings__points": 1991
+  },
+  {
+    "final_rankings": "25",
+    "nationality": "GBR",
+    "standing_player2": "Daniel Evans",
+    "age": 31,
+    "final_rankings__points": 1942
+  },
+  {
+    "final_rankings": "26",
+    "nationality": "USA",
+    "standing_player2": "Reilly Opelka",
+    "age": 24,
+    "final_rankings__points": 1936
+  },
+  {
+    "final_rankings": "27",
+    "nationality": "ITA",
+    "standing_player2": "Lorenzo Sonego",
+    "age": 26,
+    "final_rankings__points": 1825
+  },
+  {
+    "final_rankings": "28",
+    "nationality": "BUL",
+    "standing_player2": "Grigor Dimitrov",
+    "age": 30,
+    "final_rankings__points": 1801
+  },
+  {
+    "final_rankings": "29",
+    "nationality": "RUS",
+    "standing_player2": "Karen Khachanov",
+    "age": 25,
+    "final_rankings__points": 1731
+  },
+  {
+    "final_rankings": "30",
+    "nationality": "CRO",
+    "standing_player2": "Marin Cilic",
+    "age": 33,
+    "final_rankings__points": 1710
+  },
+  {
+    "final_rankings": "31",
+    "nationality": "RSA",
+    "standing_player2": "Lloyd Harris",
+    "age": 24,
+    "final_rankings__points": 1644
+  },
+  {
+    "final_rankings": "32",
+    "nationality": "ESP",
+    "standing_player2": "Carlos Alcaraz",
+    "age": 18,
+    "final_rankings__points": 1612
+  },
+  {
+    "final_rankings": "33",
+    "nationality": "SRB",
+    "standing_player2": "Dusan Lajovic",
+    "age": 31,
+    "final_rankings__points": 1591
+  },
+  {
+    "final_rankings": "34",
+    "nationality": "AUS",
+    "standing_player2": "Alex de Minaur",
+    "age": 22,
+    "final_rankings__points": 1561
+  },
+  {
+    "final_rankings": "35",
+    "nationality": "FRA",
+    "standing_player2": "Ugo Humbert",
+    "age": 23,
+    "final_rankings__points": 1558
+  },
+  {
+    "final_rankings": "36",
+    "nationality": "KAZ",
+    "standing_player2": "Alexander Bublik",
+    "age": 24,
+    "final_rankings__points": 1538
+  },
+  {
+    "final_rankings": "37",
+    "nationality": "ITA",
+    "standing_player2": "Fabio Fognini",
+    "age": 34,
+    "final_rankings__points": 1494
+  },
+  {
+    "final_rankings": "38",
+    "nationality": "USA",
+    "standing_player2": "Frances Tiafoe",
+    "age": 23,
+    "final_rankings__points": 1492
+  },
+  {
+    "final_rankings": "39",
+    "nationality": "BEL",
+    "standing_player2": "David Goffin",
+    "age": 31,
+    "final_rankings__points": 1476
+  },
+  {
+    "final_rankings": "40",
+    "nationality": "HUN",
+    "standing_player2": "Marton Fucsovics",
+    "age": 29,
+    "final_rankings__points": 1459
+  },
+  {
+    "final_rankings": "41",
+    "nationality": "USA",
+    "standing_player2": "Sebastian Korda",
+    "age": 21,
+    "final_rankings__points": 1426
+  },
+  {
+    "final_rankings": "42",
+    "nationality": "SRB",
+    "standing_player2": "Filip Krajinovic",
+    "age": 29,
+    "final_rankings__points": 1402
+  },
+  {
+    "final_rankings": "43",
+    "nationality": "USA",
+    "standing_player2": "Tommy Paul",
+    "age": 24,
+    "final_rankings__points": 1349
+  },
+  {
+    "final_rankings": "44",
+    "nationality": "ARG",
+    "standing_player2": "Federico Delbonis",
+    "age": 31,
+    "final_rankings__points": 1327
+  },
+  {
+    "final_rankings": "45",
+    "nationality": "ESP",
+    "standing_player2": "Albert Ramos-Vinolas",
+    "age": 33,
+    "final_rankings__points": 1294
+  },
+  {
+    "final_rankings": "46",
+    "nationality": "FRA",
+    "standing_player2": "Benoit Paire",
+    "age": 32,
+    "final_rankings__points": 1245
+  },
+  {
+    "final_rankings": "47",
+    "nationality": "JPN",
+    "standing_player2": "Kei Nishikori",
+    "age": 31,
+    "final_rankings__points": 1210
+  },
+  {
+    "final_rankings": "48",
+    "nationality": "BLR",
+    "standing_player2": "Ilya Ivashka",
+    "age": 27,
+    "final_rankings__points": 1194
+  },
+  {
+    "final_rankings": "49",
+    "nationality": "AUS",
+    "standing_player2": "James Duckworth",
+    "age": 29,
+    "final_rankings__points": 1176
+  },
+  {
+    "final_rankings": "50",
+    "nationality": "ESP",
+    "standing_player2": "Alejandro Davidovich Fokina",
+    "age": 22,
+    "final_rankings__points": 1160
+  },
+  {
+    "final_rankings": "51",
+    "nationality": "GER",
+    "standing_player2": "Jan-Lennard Struff",
+    "age": 31,
+    "final_rankings__points": 1134
+  },
+  {
+    "final_rankings": "52",
+    "nationality": "SRB",
+    "standing_player2": "Laslo Djere",
+    "age": 26,
+    "final_rankings__points": 1131
+  },
+  {
+    "final_rankings": "53",
+    "nationality": "KOR",
+    "standing_player2": "Soonwoo Kwon",
+    "age": 24,
+    "final_rankings__points": 1115
+  },
+  {
+    "final_rankings": "54",
+    "nationality": "GER",
+    "standing_player2": "Dominik Koepfer",
+    "age": 27,
+    "final_rankings__points": 1101
+  },
+  {
+    "final_rankings": "55",
+    "nationality": "USA",
+    "standing_player2": "Mackenzie McDonald",
+    "age": 26,
+    "final_rankings__points": 1084
+  },
+  {
+    "final_rankings": "56",
+    "nationality": "USA",
+    "standing_player2": "Jenson Brooksby",
+    "age": 21,
+    "final_rankings__points": 1063
+  },
+  {
+    "final_rankings": "57",
+    "nationality": "NED",
+    "standing_player2": "Botic van de Zandschulp",
+    "age": 26,
+    "final_rankings__points": 1034
+  },
+  {
+    "final_rankings": "58",
+    "nationality": "FRA",
+    "standing_player2": "Arthur Rinderknech",
+    "age": 26,
+    "final_rankings__points": 1029
+  },
+  {
+    "final_rankings": "59",
+    "nationality": "ITA",
+    "standing_player2": "Lorenzo Musetti",
+    "age": 19,
+    "final_rankings__points": 1004
+  },
+  {
+    "final_rankings": "60",
+    "nationality": "ESP",
+    "standing_player2": "Pedro Martinez",
+    "age": 24,
+    "final_rankings__points": 1001
+  },
+  {
+    "final_rankings": "61",
+    "nationality": "AUS",
+    "standing_player2": "Alexei Popyrin",
+    "age": 22,
+    "final_rankings__points": 1000
+  },
+  {
+    "final_rankings": "62",
+    "nationality": "ITA",
+    "standing_player2": "Gianluca Mager",
+    "age": 27,
+    "final_rankings__points": 978
+  },
+  {
+    "final_rankings": "63",
+    "nationality": "ARG",
+    "standing_player2": "Federico Coria",
+    "age": 29,
+    "final_rankings__points": 976
+  },
+  {
+    "final_rankings": "64",
+    "nationality": "FRA",
+    "standing_player2": "Benjamin Bonzi",
+    "age": 25,
+    "final_rankings__points": 969
+  },
+  {
+    "final_rankings": "65",
+    "nationality": "NED",
+    "standing_player2": "Tallon Griekspoor",
+    "age": 25,
+    "final_rankings__points": 966
+  },
+  {
+    "final_rankings": "66",
+    "nationality": "USA",
+    "standing_player2": "Marcos Giron",
+    "age": 28,
+    "final_rankings__points": 929
+  },
+  {
+    "final_rankings": "67",
+    "nationality": "FRA",
+    "standing_player2": "Hugo Gaston",
+    "age": 21,
+    "final_rankings__points": 919
+  },
+  {
+    "final_rankings": "68",
+    "nationality": "USA",
+    "standing_player2": "Brandon Nakashima",
+    "age": 20,
+    "final_rankings__points": 917
+  },
+  {
+    "final_rankings": "69",
+    "nationality": "SRB",
+    "standing_player2": "Miomir Kecmanovic",
+    "age": 22,
+    "final_rankings__points": 916
+  },
+  {
+    "final_rankings": "70",
+    "nationality": "CAN",
+    "standing_player2": "Milos Raonic",
+    "age": 31,
+    "final_rankings__points": 884
+  },
+  {
+    "final_rankings": "71",
+    "nationality": "FRA",
+    "standing_player2": "Adrian Mannarino",
+    "age": 33,
+    "final_rankings__points": 879
+  },
+  {
+    "final_rankings": "72",
+    "nationality": "AUS",
+    "standing_player2": "John Millman",
+    "age": 32,
+    "final_rankings__points": 875
+  },
+  {
+    "final_rankings": "73",
+    "nationality": "CRO",
+    "standing_player2": "Borna Coric",
+    "age": 25,
+    "final_rankings__points": 874
+  },
+  {
+    "final_rankings": "74",
+    "nationality": "ARG",
+    "standing_player2": "Guido Pella",
+    "age": 31,
+    "final_rankings__points": 866
+  },
+  {
+    "final_rankings": "75",
+    "nationality": "AUS",
+    "standing_player2": "Jordan Thompson",
+    "age": 27,
+    "final_rankings__points": 860
+  },
+  {
+    "final_rankings": "76",
+    "nationality": "ARG",
+    "standing_player2": "Facundo Bagnis",
+    "age": 31,
+    "final_rankings__points": 860
+  },
+  {
+    "final_rankings": "77",
+    "nationality": "ESP",
+    "standing_player2": "Jaume Munar",
+    "age": 24,
+    "final_rankings__points": 848
+  },
+  {
+    "final_rankings": "78",
+    "nationality": "ITA",
+    "standing_player2": "Stefano Travaglia",
+    "age": 29,
+    "final_rankings__points": 846
+  },
+  {
+    "final_rankings": "79",
+    "nationality": "ESP",
+    "standing_player2": "Roberto Carballes Baena",
+    "age": 28,
+    "final_rankings__points": 837
+  },
+  {
+    "final_rankings": "80",
+    "nationality": "RSA",
+    "standing_player2": "Kevin Anderson",
+    "age": 35,
+    "final_rankings__points": 829
+  },
+  {
+    "final_rankings": "81",
+    "nationality": "JPN",
+    "standing_player2": "Yoshihito Nishioka",
+    "age": 26,
+    "final_rankings__points": 823
+  },
+  {
+    "final_rankings": "82",
+    "nationality": "SUI",
+    "standing_player2": "Stan Wawrinka",
+    "age": 36,
+    "final_rankings__points": 822
+  },
+  {
+    "final_rankings": "83",
+    "nationality": "CZE",
+    "standing_player2": "Jiri Vesely",
+    "age": 28,
+    "final_rankings__points": 822
+  },
+  {
+    "final_rankings": "84",
+    "nationality": "GER",
+    "standing_player2": "Daniel Altmaier",
+    "age": 23,
+    "final_rankings__points": 813
+  },
+  {
+    "final_rankings": "85",
+    "nationality": "USA",
+    "standing_player2": "Steve Johnson",
+    "age": 32,
+    "final_rankings__points": 812
+  },
+  {
+    "final_rankings": "86",
+    "nationality": "GER",
+    "standing_player2": "Peter Gojowczyk",
+    "age": 32,
+    "final_rankings__points": 808
+  },
+  {
+    "final_rankings": "87",
+    "nationality": "FRA",
+    "standing_player2": "Richard Gasquet",
+    "age": 35,
+    "final_rankings__points": 807
+  },
+  {
+    "final_rankings": "88",
+    "nationality": "SVK",
+    "standing_player2": "Alex Molcan",
+    "age": 24,
+    "final_rankings__points": 806
+  },
+  {
+    "final_rankings": "89",
+    "nationality": "BRA",
+    "standing_player2": "Thiago Monteiro",
+    "age": 27,
+    "final_rankings__points": 805
+  },
+  {
+    "final_rankings": "90",
+    "nationality": "ARG",
+    "standing_player2": "Juan Manuel Cerundolo",
+    "age": 20,
+    "final_rankings__points": 803
+  },
+  {
+    "final_rankings": "91",
+    "nationality": "ESP",
+    "standing_player2": "Pablo Andujar",
+    "age": 35,
+    "final_rankings__points": 800
+  },
+  {
+    "final_rankings": "92",
+    "nationality": "FRA",
+    "standing_player2": "Corentin Moutet",
+    "age": 22,
+    "final_rankings__points": 797
+  },
+  {
+    "final_rankings": "93",
+    "nationality": "AUS",
+    "standing_player2": "Nick Kyrgios",
+    "age": 26,
+    "final_rankings__points": 793
+  },
+  {
+    "final_rankings": "94",
+    "nationality": "SWE",
+    "standing_player2": "Mikael Ymer",
+    "age": 23,
+    "final_rankings__points": 782
+  },
+  {
+    "final_rankings": "95",
+    "nationality": "FIN",
+    "standing_player2": "Emil Ruusuvuori",
+    "age": 22,
+    "final_rankings__points": 778
+  },
+  {
+    "final_rankings": "96",
+    "nationality": "USA",
+    "standing_player2": "Tennys Sandgren",
+    "age": 30,
+    "final_rankings__points": 773
+  },
+  {
+    "final_rankings": "97",
+    "nationality": "URU",
+    "standing_player2": "Pablo Cuevas",
+    "age": 35,
+    "final_rankings__points": 770
+  },
+  {
+    "final_rankings": "98",
+    "nationality": "SUI",
+    "standing_player2": "Henri Laaksonen",
+    "age": 29,
+    "final_rankings__points": 765
+  },
+  {
+    "final_rankings": "99",
+    "nationality": "ARG",
+    "standing_player2": "Sebastian Baez",
+    "age": 20,
+    "final_rankings__points": 762
+  },
+  {
+    "final_rankings": "100",
+    "nationality": "ITA",
+    "standing_player2": "Marco Cecchinato",
+    "age": 29,
+    "final_rankings__points": 759
+  },
+  {
+    "final_rankings": "101",
+    "nationality": "GER",
+    "standing_player2": "Oscar Otte",
+    "age": 28,
+    "final_rankings__points": 747
+  },
+  {
+    "final_rankings": "102",
+    "nationality": "ITA",
+    "standing_player2": "Andreas Seppi",
+    "age": 37,
+    "final_rankings__points": 744
+  },
+  {
+    "final_rankings": "103",
+    "nationality": "DEN",
+    "standing_player2": "Holger Rune",
+    "age": 18,
+    "final_rankings__points": 740
+  },
+  {
+    "final_rankings": "104",
+    "nationality": "LTU",
+    "standing_player2": "Ricardas Berankis",
+    "age": 31,
+    "final_rankings__points": 739
+  },
+  {
+    "final_rankings": "105",
+    "nationality": "USA",
+    "standing_player2": "Denis Kudla",
+    "age": 29,
+    "final_rankings__points": 733
+  },
+  {
+    "final_rankings": "106",
+    "nationality": "ESP",
+    "standing_player2": "Feliciano Lopez",
+    "age": 40,
+    "final_rankings__points": 731
+  },
+  {
+    "final_rankings": "107",
+    "nationality": "FRA",
+    "standing_player2": "Jeremy Chardy",
+    "age": 34,
+    "final_rankings__points": 718
+  },
+  {
+    "final_rankings": "108",
+    "nationality": "USA",
+    "standing_player2": "Sam Querrey",
+    "age": 34,
+    "final_rankings__points": 715
+  },
+  {
+    "final_rankings": "109",
+    "nationality": "SLO",
+    "standing_player2": "Aljaz Bedene",
+    "age": 32,
+    "final_rankings__points": 715
+  },
+  {
+    "final_rankings": "110",
+    "nationality": "FRA",
+    "standing_player2": "Pierre-Hugues Herbert",
+    "age": 30,
+    "final_rankings__points": 713
+  },
+  {
+    "final_rankings": "111",
+    "nationality": "ESP",
+    "standing_player2": "Carlos Taberner",
+    "age": 24,
+    "final_rankings__points": 707
+  },
+  {
+    "final_rankings": "112",
+    "nationality": "USA",
+    "standing_player2": "Maxime Cressy",
+    "age": 24,
+    "final_rankings__points": 683
+  },
+  {
+    "final_rankings": "113",
+    "nationality": "BLR",
+    "standing_player2": "Egor Gerasimov",
+    "age": 29,
+    "final_rankings__points": 665
+  },
+  {
+    "final_rankings": "114",
+    "nationality": "GER",
+    "standing_player2": "Philipp Kohlschreiber",
+    "age": 38,
+    "final_rankings__points": 658
+  },
+  {
+    "final_rankings": "115",
+    "nationality": "BOL",
+    "standing_player2": "Hugo Dellien",
+    "age": 28,
+    "final_rankings__points": 654
+  },
+  {
+    "final_rankings": "116",
+    "nationality": "SVK",
+    "standing_player2": "Andrej Martin",
+    "age": 32,
+    "final_rankings__points": 643
+  },
+  {
+    "final_rankings": "117",
+    "nationality": "POL",
+    "standing_player2": "Kamil Majchrzak",
+    "age": 25,
+    "final_rankings__points": 633
+  },
+  {
+    "final_rankings": "118",
+    "nationality": "SVK",
+    "standing_player2": "Norbert Gombos",
+    "age": 31,
+    "final_rankings__points": 624
+  },
+  {
+    "final_rankings": "119",
+    "nationality": "AUT",
+    "standing_player2": "Dennis Novak",
+    "age": 28,
+    "final_rankings__points": 621
+  },
+  {
+    "final_rankings": "120",
+    "nationality": "COL",
+    "standing_player2": "Daniel Elahi Galan",
+    "age": 25,
+    "final_rankings__points": 618
+  },
+  {
+    "final_rankings": "121",
+    "nationality": "GBR",
+    "standing_player2": "Kyle Edmund",
+    "age": 26,
+    "final_rankings__points": 601
+  },
+  {
+    "final_rankings": "122",
+    "nationality": "FRA",
+    "standing_player2": "Gilles Simon",
+    "age": 36,
+    "final_rankings__points": 597
+  },
+  {
+    "final_rankings": "123",
+    "nationality": "MDA",
+    "standing_player2": "Radu Albot",
+    "age": 32,
+    "final_rankings__points": 587
+  },
+  {
+    "final_rankings": "124",
+    "nationality": "ESP",
+    "standing_player2": "Bernabe Zapata Miralles",
+    "age": 24,
+    "final_rankings__points": 586
+  },
+  {
+    "final_rankings": "125",
+    "nationality": "JPN",
+    "standing_player2": "Taro Daniel",
+    "age": 28,
+    "final_rankings__points": 584
+  },
+  {
+    "final_rankings": "126",
+    "nationality": "GER",
+    "standing_player2": "Yannick Hanfmann",
+    "age": 30,
+    "final_rankings__points": 583
+  },
+  {
+    "final_rankings": "127",
+    "nationality": "ARG",
+    "standing_player2": "Francisco Cerundolo",
+    "age": 23,
+    "final_rankings__points": 582
+  },
+  {
+    "final_rankings": "128",
+    "nationality": "GBR",
+    "standing_player2": "Liam Broady",
+    "age": 27,
+    "final_rankings__points": 569
+  },
+  {
+    "final_rankings": "129",
+    "nationality": "PER",
+    "standing_player2": "Juan Pablo Varillas",
+    "age": 26,
+    "final_rankings__points": 567
+  },
+  {
+    "final_rankings": "130",
+    "nationality": "ARG",
+    "standing_player2": "Tomas Martin Etcheverry",
+    "age": 22,
+    "final_rankings__points": 556
+  },
+  {
+    "final_rankings": "131",
+    "nationality": "BRA",
+    "standing_player2": "Thiago Seyboth Wild",
+    "age": 21,
+    "final_rankings__points": 550
+  },
+  {
+    "final_rankings": "132",
+    "nationality": "HUN",
+    "standing_player2": "Attila Balazs",
+    "age": 33,
+    "final_rankings__points": 530
+  },
+  {
+    "final_rankings": "133",
+    "nationality": "CAN",
+    "standing_player2": "Vasek Pospisil",
+    "age": 31,
+    "final_rankings__points": 524
+  },
+  {
+    "final_rankings": "134",
+    "nationality": "GBR",
+    "standing_player2": "Andy Murray",
+    "age": 34,
+    "final_rankings__points": 521
+  },
+  {
+    "final_rankings": "135",
+    "nationality": "ARG",
+    "standing_player2": "Juan Ignacio Londero",
+    "age": 28,
+    "final_rankings__points": 512
+  },
+  {
+    "final_rankings": "136",
+    "nationality": "AUT",
+    "standing_player2": "Jurij Rodionov",
+    "age": 22,
+    "final_rankings__points": 510
+  },
+  {
+    "final_rankings": "137",
+    "nationality": "AUS",
+    "standing_player2": "Alex Bolt",
+    "age": 28,
+    "final_rankings__points": 506
+  },
+  {
+    "final_rankings": "138",
+    "nationality": "SRB",
+    "standing_player2": "Nikola Milojevic",
+    "age": 26,
+    "final_rankings__points": 506
+  },
+  {
+    "final_rankings": "139",
+    "nationality": "CHI",
+    "standing_player2": "Alejandro Tabilo",
+    "age": 24,
+    "final_rankings__points": 505
+  },
+  {
+    "final_rankings": "140",
+    "nationality": "POR",
+    "standing_player2": "Joao Sousa",
+    "age": 32,
+    "final_rankings__points": 500
+  },
+  {
+    "final_rankings": "141",
+    "nationality": "CZE",
+    "standing_player2": "Jiri Lehecka",
+    "age": 20,
+    "final_rankings__points": 484
+  },
+  {
+    "final_rankings": "142",
+    "nationality": "CZE",
+    "standing_player2": "Zdenek Kolar",
+    "age": 25,
+    "final_rankings__points": 481
+  },
+  {
+    "final_rankings": "143",
+    "nationality": "CZE",
+    "standing_player2": "Tomas Machac",
+    "age": 21,
+    "final_rankings__points": 477
+  },
+  {
+    "final_rankings": "144",
+    "nationality": "TUR",
+    "standing_player2": "Cem Ilkel",
+    "age": 26,
+    "final_rankings__points": 468
+  },
+  {
+    "final_rankings": "145",
+    "nationality": "USA",
+    "standing_player2": "Jack Sock",
+    "age": 29,
+    "final_rankings__points": 461
+  },
+  {
+    "final_rankings": "146",
+    "nationality": "CHI",
+    "standing_player2": "Nicolas Jarry",
+    "age": 26,
+    "final_rankings__points": 460
+  },
+  {
+    "final_rankings": "147",
+    "nationality": "CHI",
+    "standing_player2": "Tomas Barrios Vera",
+    "age": 24,
+    "final_rankings__points": 458
+  },
+  {
+    "final_rankings": "148",
+    "nationality": "ECU",
+    "standing_player2": "Emilio Gomez",
+    "age": 30,
+    "final_rankings__points": 455
+  },
+  {
+    "final_rankings": "149",
+    "nationality": "SVK",
+    "standing_player2": "Jozef Kovalik",
+    "age": 29,
+    "final_rankings__points": 452
+  },
+  {
+    "final_rankings": "150",
+    "nationality": "FRA",
+    "standing_player2": "Hugo Grenier",
+    "age": 25,
+    "final_rankings__points": 450
+  },
+  {
+    "final_rankings": "151",
+    "nationality": "FRA",
+    "standing_player2": "Quentin Halys",
+    "age": 25,
+    "final_rankings__points": 448
+  },
+  {
+    "final_rankings": "152",
+    "nationality": "GER",
+    "standing_player2": "Mats Moraing",
+    "age": 29,
+    "final_rankings__points": 444
+  },
+  {
+    "final_rankings": "153",
+    "nationality": "ITA",
+    "standing_player2": "Federico Gaio",
+    "age": 29,
+    "final_rankings__points": 441
+  },
+  {
+    "final_rankings": "154",
+    "nationality": "ESP",
+    "standing_player2": "Fernando Verdasco",
+    "age": 38,
+    "final_rankings__points": 440
+  },
+  {
+    "final_rankings": "155",
+    "nationality": "FRA",
+    "standing_player2": "Lucas Pouille",
+    "age": 27,
+    "final_rankings__points": 440
+  },
+  {
+    "final_rankings": "156",
+    "nationality": "AUS",
+    "standing_player2": "Aleksandar Vukic",
+    "age": 25,
+    "final_rankings__points": 440
+  },
+  {
+    "final_rankings": "157",
+    "nationality": "ITA",
+    "standing_player2": "Salvatore Caruso",
+    "age": 29,
+    "final_rankings__points": 436
+  },
+  {
+    "final_rankings": "158",
+    "nationality": "BIH",
+    "standing_player2": "Damir Dzumhur",
+    "age": 29,
+    "final_rankings__points": 436
+  },
+  {
+    "final_rankings": "159",
+    "nationality": "USA",
+    "standing_player2": "Stefan Kozlov",
+    "age": 23,
+    "final_rankings__points": 434
+  },
+  {
+    "final_rankings": "160",
+    "nationality": "USA",
+    "standing_player2": "Christopher Eubanks",
+    "age": 25,
+    "final_rankings__points": 428
+  },
+  {
+    "final_rankings": "161",
+    "nationality": "JPN",
+    "standing_player2": "Yuichi Sugita",
+    "age": 33,
+    "final_rankings__points": 428
+  },
+  {
+    "final_rankings": "162",
+    "nationality": "TUR",
+    "standing_player2": "Altug Celikbilek",
+    "age": 25,
+    "final_rankings__points": 428
+  },
+  {
+    "final_rankings": "163",
+    "nationality": "UKR",
+    "standing_player2": "Illya Marchenko",
+    "age": 34,
+    "final_rankings__points": 427
+  },
+  {
+    "final_rankings": "164",
+    "nationality": "MEX",
+    "standing_player2": "Ernesto Escobedo",
+    "age": 25,
+    "final_rankings__points": 422
+  },
+  {
+    "final_rankings": "165",
+    "nationality": "USA",
+    "standing_player2": "Bjorn Fratangelo",
+    "age": 28,
+    "final_rankings__points": 422
+  },
+  {
+    "final_rankings": "166",
+    "nationality": "FRA",
+    "standing_player2": "Gregoire Barrere",
+    "age": 27,
+    "final_rankings__points": 417
+  },
+  {
+    "final_rankings": "167",
+    "nationality": "RUS",
+    "standing_player2": "Roman Safiullin",
+    "age": 24,
+    "final_rankings__points": 409
+  },
+  {
+    "final_rankings": "168",
+    "nationality": "POL",
+    "standing_player2": "Kacper Zuk",
+    "age": 22,
+    "final_rankings__points": 404
+  },
+  {
+    "final_rankings": "169",
+    "nationality": "USA",
+    "standing_player2": "Mitchell Krueger",
+    "age": 27,
+    "final_rankings__points": 404
+  },
+  {
+    "final_rankings": "170",
+    "nationality": "SWE",
+    "standing_player2": "Elias Ymer",
+    "age": 25,
+    "final_rankings__points": 401
+  },
+  {
+    "final_rankings": "171",
+    "nationality": "AUS",
+    "standing_player2": "Thanasi Kokkinakis",
+    "age": 25,
+    "final_rankings__points": 394
+  },
+  {
+    "final_rankings": "172",
+    "nationality": "RUS",
+    "standing_player2": "Evgeny Donskoy",
+    "age": 31,
+    "final_rankings__points": 392
+  },
+  {
+    "final_rankings": "173",
+    "nationality": "POR",
+    "standing_player2": "Pedro Sousa",
+    "age": 33,
+    "final_rankings__points": 391
+  },
+  {
+    "final_rankings": "174",
+    "nationality": "USA",
+    "standing_player2": "J.J. Wolf",
+    "age": 23,
+    "final_rankings__points": 390
+  },
+  {
+    "final_rankings": "175",
+    "nationality": "AUS",
+    "standing_player2": "Christopher O'Connell",
+    "age": 27,
+    "final_rankings__points": 388
+  },
+  {
+    "final_rankings": "176",
+    "nationality": "AUS",
+    "standing_player2": "Max Purcell",
+    "age": 23,
+    "final_rankings__points": 386
+  },
+  {
+    "final_rankings": "177",
+    "nationality": "ESP",
+    "standing_player2": "Mario Vilella Martinez",
+    "age": 26,
+    "final_rankings__points": 385
+  },
+  {
+    "final_rankings": "178",
+    "nationality": "TPE",
+    "standing_player2": "Jason Jung",
+    "age": 32,
+    "final_rankings__points": 379
+  },
+  {
+    "final_rankings": "179",
+    "nationality": "FRA",
+    "standing_player2": "Enzo Couacaud",
+    "age": 26,
+    "final_rankings__points": 370
+  },
+  {
+    "final_rankings": "180",
+    "nationality": "KAZ",
+    "standing_player2": "Dmitry Popko",
+    "age": 25,
+    "final_rankings__points": 369
+  },
+  {
+    "final_rankings": "181",
+    "nationality": "SLO",
+    "standing_player2": "Blaz Rola",
+    "age": 31,
+    "final_rankings__points": 368
+  },
+  {
+    "final_rankings": "182",
+    "nationality": "KAZ",
+    "standing_player2": "Mikhail Kukushkin",
+    "age": 34,
+    "final_rankings__points": 366
+  },
+  {
+    "final_rankings": "183",
+    "nationality": "GER",
+    "standing_player2": "Daniel Masur",
+    "age": 27,
+    "final_rankings__points": 361
+  },
+  {
+    "final_rankings": "184",
+    "nationality": "IND",
+    "standing_player2": "Ramkumar Ramanathan",
+    "age": 27,
+    "final_rankings__points": 360
+  },
+  {
+    "final_rankings": "185",
+    "nationality": "ITA",
+    "standing_player2": "Alessandro Giannessi",
+    "age": 31,
+    "final_rankings__points": 357
+  },
+  {
+    "final_rankings": "186",
+    "nationality": "SUI",
+    "standing_player2": "Marc-Andrea Huesler",
+    "age": 25,
+    "final_rankings__points": 357
+  },
+  {
+    "final_rankings": "187",
+    "nationality": "BUL",
+    "standing_player2": "Dimitar Kuzmanov",
+    "age": 28,
+    "final_rankings__points": 355
+  },
+  {
+    "final_rankings": "188",
+    "nationality": "TPE",
+    "standing_player2": "Chun-Hsin Tseng",
+    "age": 20,
+    "final_rankings__points": 352
+  },
+  {
+    "final_rankings": "189",
+    "nationality": "ARG",
+    "standing_player2": "Renzo Olivo",
+    "age": 29,
+    "final_rankings__points": 351
+  },
+  {
+    "final_rankings": "190",
+    "nationality": "SVK",
+    "standing_player2": "Lukas Lacko",
+    "age": 34,
+    "final_rankings__points": 351
+  },
+  {
+    "final_rankings": "191",
+    "nationality": "LAT",
+    "standing_player2": "Ernests Gulbis",
+    "age": 33,
+    "final_rankings__points": 348
+  },
+  {
+    "final_rankings": "192",
+    "nationality": "BEL",
+    "standing_player2": "Zizou Bergs",
+    "age": 22,
+    "final_rankings__points": 348
+  },
+  {
+    "final_rankings": "193",
+    "nationality": "AUT",
+    "standing_player2": "Sebastian Ofner",
+    "age": 25,
+    "final_rankings__points": 347
+  },
+  {
+    "final_rankings": "194",
+    "nationality": "POR",
+    "standing_player2": "Nuno Borges",
+    "age": 24,
+    "final_rankings__points": 346
+  },
+  {
+    "final_rankings": "195",
+    "nationality": "SVK",
+    "standing_player2": "Filip Horansky",
+    "age": 28,
+    "final_rankings__points": 346
+  },
+  {
+    "final_rankings": "196",
+    "nationality": "AUS",
+    "standing_player2": "Marc Polmans",
+    "age": 24,
+    "final_rankings__points": 343
+  },
+  {
+    "final_rankings": "197",
+    "nationality": "ITA",
+    "standing_player2": "Gian Marco Moroni",
+    "age": 23,
+    "final_rankings__points": 336
+  },
+  {
+    "final_rankings": "198",
+    "nationality": "CZE",
+    "standing_player2": "Vit Kopriva",
+    "age": 24,
+    "final_rankings__points": 333
+  },
+  {
+    "final_rankings": "199",
+    "nationality": "ARG",
+    "standing_player2": "Marco Trungelliti",
+    "age": 31,
+    "final_rankings__points": 330
+  },
+  {
+    "final_rankings": "200",
+    "nationality": "FRA",
+    "standing_player2": "Antoine Hoang",
+    "age": 26,
+    "final_rankings__points": 323
+  },
+  {
+    "final_rankings": "201",
+    "nationality": "ITA",
+    "standing_player2": "Franco Agamenone",
+    "age": 28,
+    "final_rankings__points": 323
+  },
+  {
+    "final_rankings": "202",
+    "nationality": "ITA",
+    "standing_player2": "Roberto Marcora",
+    "age": 32,
+    "final_rankings__points": 322
+  },
+  {
+    "final_rankings": "203",
+    "nationality": "JPN",
+    "standing_player2": "Yasutaka Uchiyama",
+    "age": 29,
+    "final_rankings__points": 321
+  },
+  {
+    "final_rankings": "204",
+    "nationality": "ITA",
+    "standing_player2": "Thomas Fabbiano",
+    "age": 32,
+    "final_rankings__points": 321
+  },
+  {
+    "final_rankings": "205",
+    "nationality": "ITA",
+    "standing_player2": "Flavio Cobolli",
+    "age": 19,
+    "final_rankings__points": 321
+  },
+  {
+    "final_rankings": "206",
+    "nationality": "AUS",
+    "standing_player2": "Jason Kubler",
+    "age": 28,
+    "final_rankings__points": 320
+  },
+  {
+    "final_rankings": "207",
+    "nationality": "ITA",
+    "standing_player2": "Lorenzo Giustino",
+    "age": 30,
+    "final_rankings__points": 316
+  },
+  {
+    "final_rankings": "208",
+    "nationality": "BEL",
+    "standing_player2": "Kimmer Coppejans",
+    "age": 27,
+    "final_rankings__points": 313
+  },
+  {
+    "final_rankings": "209",
+    "nationality": "ARG",
+    "standing_player2": "Facundo Mena",
+    "age": 29,
+    "final_rankings__points": 308
+  },
+  {
+    "final_rankings": "210",
+    "nationality": "BRA",
+    "standing_player2": "Felipe Meligeni Alves",
+    "age": 23,
+    "final_rankings__points": 304
+  },
+  {
+    "final_rankings": "211",
+    "nationality": "FRA",
+    "standing_player2": "Mathias Bourgue",
+    "age": 27,
+    "final_rankings__points": 303
+  },
+  {
+    "final_rankings": "212",
+    "nationality": "BEL",
+    "standing_player2": "Ruben Bemelmans",
+    "age": 33,
+    "final_rankings__points": 301
+  },
+  {
+    "final_rankings": "213",
+    "nationality": "ARG",
+    "standing_player2": "Camilo Ugo Carabelli",
+    "age": 22,
+    "final_rankings__points": 301
+  },
+  {
+    "final_rankings": "214",
+    "nationality": "EGY",
+    "standing_player2": "Mohamed Safwat",
+    "age": 31,
+    "final_rankings__points": 298
+  },
+  {
+    "final_rankings": "215",
+    "nationality": "GBR",
+    "standing_player2": "Jay Clarke",
+    "age": 23,
+    "final_rankings__points": 297
+  },
+  {
+    "final_rankings": "216",
+    "nationality": "ARG",
+    "standing_player2": "Nicolas Kicker",
+    "age": 29,
+    "final_rankings__points": 297
+  },
+  {
+    "final_rankings": "217",
+    "nationality": "POR",
+    "standing_player2": "Gastao Elias",
+    "age": 31,
+    "final_rankings__points": 296
+  },
+  {
+    "final_rankings": "218",
+    "nationality": "ITA",
+    "standing_player2": "Andrea Pellegrino",
+    "age": 24,
+    "final_rankings__points": 295
+  },
+  {
+    "final_rankings": "219",
+    "nationality": "IND",
+    "standing_player2": "Prajnesh Gunneswaran",
+    "age": 32,
+    "final_rankings__points": 293
+  },
+  {
+    "final_rankings": "220",
+    "nationality": "UKR",
+    "standing_player2": "Sergiy Stakhovsky",
+    "age": 35,
+    "final_rankings__points": 293
+  },
+  {
+    "final_rankings": "221",
+    "nationality": "USA",
+    "standing_player2": "Thai-Son Kwiatkowski",
+    "age": 26,
+    "final_rankings__points": 292
+  },
+  {
+    "final_rankings": "222",
+    "nationality": "IND",
+    "standing_player2": "Sumit Nagal",
+    "age": 24,
+    "final_rankings__points": 290
+  },
+  {
+    "final_rankings": "223",
+    "nationality": "FRA",
+    "standing_player2": "Maxime Janvier",
+    "age": 25,
+    "final_rankings__points": 290
+  },
+  {
+    "final_rankings": "224",
+    "nationality": "FRA",
+    "standing_player2": "Alexandre Muller",
+    "age": 24,
+    "final_rankings__points": 288
+  },
+  {
+    "final_rankings": "225",
+    "nationality": "RUS",
+    "standing_player2": "Pavel Kotov",
+    "age": 23,
+    "final_rankings__points": 286
+  },
+  {
+    "final_rankings": "226",
+    "nationality": "NED",
+    "standing_player2": "Jesper de Jong",
+    "age": 21,
+    "final_rankings__points": 285
+  },
+  {
+    "final_rankings": "227",
+    "nationality": "GER",
+    "standing_player2": "Cedrik-Marcel Stebe",
+    "age": 31,
+    "final_rankings__points": 282
+  },
+  {
+    "final_rankings": "228",
+    "nationality": "FRA",
+    "standing_player2": "Constant Lestienne",
+    "age": 29,
+    "final_rankings__points": 280
+  },
+  {
+    "final_rankings": "229",
+    "nationality": "GER",
+    "standing_player2": "Maximilian Marterer",
+    "age": 26,
+    "final_rankings__points": 279
+  },
+  {
+    "final_rankings": "230",
+    "nationality": "NED",
+    "standing_player2": "Robin Haase",
+    "age": 34,
+    "final_rankings__points": 279
+  },
+  {
+    "final_rankings": "231",
+    "nationality": "DEN",
+    "standing_player2": "Mikael Torpegaard",
+    "age": 27,
+    "final_rankings__points": 279
+  },
+  {
+    "final_rankings": "232",
+    "nationality": "SRB",
+    "standing_player2": "Viktor Troicki",
+    "age": 35,
+    "final_rankings__points": 276
+  },
+  {
+    "final_rankings": "233",
+    "nationality": "BIH",
+    "standing_player2": "Mirza Basic",
+    "age": 30,
+    "final_rankings__points": 276
+  },
+  {
+    "final_rankings": "234",
+    "nationality": "GER",
+    "standing_player2": "Matthias Bachinger",
+    "age": 34,
+    "final_rankings__points": 273
+  },
+  {
+    "final_rankings": "235",
+    "nationality": "FRA",
+    "standing_player2": "Geoffrey Blancaneaux",
+    "age": 23,
+    "final_rankings__points": 271
+  },
+  {
+    "final_rankings": "236",
+    "nationality": "ARG",
+    "standing_player2": "Juan Pablo Ficovich",
+    "age": 24,
+    "final_rankings__points": 267
+  },
+  {
+    "final_rankings": "237",
+    "nationality": "AUS",
+    "standing_player2": "Matthew Ebden",
+    "age": 34,
+    "final_rankings__points": 266
+  },
+  {
+    "final_rankings": "238",
+    "nationality": "CAN",
+    "standing_player2": "Brayden Schnur",
+    "age": 26,
+    "final_rankings__points": 264
+  },
+  {
+    "final_rankings": "239",
+    "nationality": "USA",
+    "standing_player2": "Michael Mmoh",
+    "age": 23,
+    "final_rankings__points": 263
+  },
+  {
+    "final_rankings": "240",
+    "nationality": "POR",
+    "standing_player2": "Frederico Ferreira Silva",
+    "age": 26,
+    "final_rankings__points": 262
+  },
+  {
+    "final_rankings": "241",
+    "nationality": "ARG",
+    "standing_player2": "Thiago Agustin Tirante",
+    "age": 20,
+    "final_rankings__points": 261
+  },
+  {
+    "final_rankings": "242",
+    "nationality": "GER",
+    "standing_player2": "Nicola Kuhn",
+    "age": 21,
+    "final_rankings__points": 255
+  },
+  {
+    "final_rankings": "243",
+    "nationality": "FRA",
+    "standing_player2": "Manuel Guinard",
+    "age": 26,
+    "final_rankings__points": 255
+  },
+  {
+    "final_rankings": "244",
+    "nationality": "UKR",
+    "standing_player2": "Vitaliy Sachko",
+    "age": 24,
+    "final_rankings__points": 254
+  },
+  {
+    "final_rankings": "245",
+    "nationality": "ARG",
+    "standing_player2": "Pedro Cachin",
+    "age": 26,
+    "final_rankings__points": 254
+  },
+  {
+    "final_rankings": "246",
+    "nationality": "SUI",
+    "standing_player2": "Dominic Stricker",
+    "age": 19,
+    "final_rankings__points": 253
+  },
+  {
+    "final_rankings": "247",
+    "nationality": "JPN",
+    "standing_player2": "Go Soeda",
+    "age": 37,
+    "final_rankings__points": 253
+  },
+  {
+    "final_rankings": "248",
+    "nationality": "POR",
+    "standing_player2": "Joao Domingues",
+    "age": 28,
+    "final_rankings__points": 251
+  },
+  {
+    "final_rankings": "249",
+    "nationality": "USA",
+    "standing_player2": "Ulises Blanch",
+    "age": 23,
+    "final_rankings__points": 249
+  },
+  {
+    "final_rankings": "250",
+    "nationality": "BRA",
+    "standing_player2": "Joao Menezes",
+    "age": 25,
+    "final_rankings__points": 248
+  },
+  {
+    "final_rankings": "251",
+    "nationality": "ITA",
+    "standing_player2": "Andrea Arnaboldi",
+    "age": 34,
+    "final_rankings__points": 247
+  },
+  {
+    "final_rankings": "252",
+    "nationality": "CRO",
+    "standing_player2": "Nino Serdarusic",
+    "age": 25,
+    "final_rankings__points": 246
+  },
+  {
+    "final_rankings": "253",
+    "nationality": "ITA",
+    "standing_player2": "Giulio Zeppieri",
+    "age": 20,
+    "final_rankings__points": 245
+  },
+  {
+    "final_rankings": "254",
+    "nationality": "UZB",
+    "standing_player2": "Denis Istomin",
+    "age": 35,
+    "final_rankings__points": 241
+  },
+  {
+    "final_rankings": "255",
+    "nationality": "GER",
+    "standing_player2": "Tobias Kamke",
+    "age": 35,
+    "final_rankings__points": 241
+  },
+  {
+    "final_rankings": "256",
+    "nationality": "USA",
+    "standing_player2": "Christian Harrison",
+    "age": 27,
+    "final_rankings__points": 240
+  },
+  {
+    "final_rankings": "257",
+    "nationality": "KAZ",
+    "standing_player2": "Timofey Skatov",
+    "age": 20,
+    "final_rankings__points": 238
+  },
+  {
+    "final_rankings": "258",
+    "nationality": "SVK",
+    "standing_player2": "Lukas Klein",
+    "age": 23,
+    "final_rankings__points": 237
+  },
+  {
+    "final_rankings": "259",
+    "nationality": "JPN",
+    "standing_player2": "Kaichi Uchida",
+    "age": 27,
+    "final_rankings__points": 235
+  },
+  {
+    "final_rankings": "260",
+    "nationality": "AUS",
+    "standing_player2": "Bernard Tomic",
+    "age": 29,
+    "final_rankings__points": 231
+  },
+  {
+    "final_rankings": "261",
+    "nationality": "NED",
+    "standing_player2": "Tim van Rijthoven",
+    "age": 24,
+    "final_rankings__points": 229
+  },
+  {
+    "final_rankings": "262",
+    "nationality": "ARG",
+    "standing_player2": "Andrea Collarini",
+    "age": 29,
+    "final_rankings__points": 229
+  },
+  {
+    "final_rankings": "263",
+    "nationality": "FRA",
+    "standing_player2": "Jo-Wilfried Tsonga",
+    "age": 36,
+    "final_rankings__points": 228
+  },
+  {
+    "final_rankings": "264",
+    "nationality": "RUS",
+    "standing_player2": "Andrey Kuznetsov",
+    "age": 30,
+    "final_rankings__points": 228
+  },
+  {
+    "final_rankings": "265",
+    "nationality": "GBR",
+    "standing_player2": "Jack Draper",
+    "age": 20,
+    "final_rankings__points": 227
+  },
+  {
+    "final_rankings": "266",
+    "nationality": "JPN",
+    "standing_player2": "Yosuke Watanuki",
+    "age": 23,
+    "final_rankings__points": 223
+  },
+  {
+    "final_rankings": "267",
+    "nationality": "ITA",
+    "standing_player2": "Andrea Vavassori",
+    "age": 26,
+    "final_rankings__points": 221
+  },
+  {
+    "final_rankings": "268",
+    "nationality": "GBR",
+    "standing_player2": "Ryan Peniston",
+    "age": 26,
+    "final_rankings__points": 216
+  },
+  {
+    "final_rankings": "269",
+    "nationality": "RUS",
+    "standing_player2": "Evgeny Karlovskiy",
+    "age": 27,
+    "final_rankings__points": 215
+  },
+  {
+    "final_rankings": "270",
+    "nationality": "TPE",
+    "standing_player2": "Tung-Lin Wu",
+    "age": 23,
+    "final_rankings__points": 214
+  },
+  {
+    "final_rankings": "271",
+    "nationality": "ARG",
+    "standing_player2": "Guido Andreozzi",
+    "age": 30,
+    "final_rankings__points": 213
+  },
+  {
+    "final_rankings": "272",
+    "nationality": "CRO",
+    "standing_player2": "Duje Ajdukovic",
+    "age": 20,
+    "final_rankings__points": 213
+  },
+  {
+    "final_rankings": "273",
+    "nationality": "CZE",
+    "standing_player2": "Lukas Rosol",
+    "age": 36,
+    "final_rankings__points": 212
+  },
+  {
+    "final_rankings": "274",
+    "nationality": "ITA",
+    "standing_player2": "Paolo Lorenzi",
+    "age": 40,
+    "final_rankings__points": 211
+  },
+  {
+    "final_rankings": "275",
+    "nationality": "CAN",
+    "standing_player2": "Steven Diez",
+    "age": 30,
+    "final_rankings__points": 211
+  },
+  {
+    "final_rankings": "276",
+    "nationality": "SUI",
+    "standing_player2": "Alexander Ritschard",
+    "age": 27,
+    "final_rankings__points": 207
+  },
+  {
+    "final_rankings": "277",
+    "nationality": "FRA",
+    "standing_player2": "Tristan Lamasine",
+    "age": 28,
+    "final_rankings__points": 205
+  },
+  {
+    "final_rankings": "278",
+    "nationality": "JPN",
+    "standing_player2": "Tatsuma Ito",
+    "age": 33,
+    "final_rankings__points": 203
+  },
+  {
+    "final_rankings": "279",
+    "nationality": "CRO",
+    "standing_player2": "Ivo Karlovic",
+    "age": 42,
+    "final_rankings__points": 202
+  },
+  {
+    "final_rankings": "280",
+    "nationality": "ROU",
+    "standing_player2": "Marius Copil",
+    "age": 31,
+    "final_rankings__points": 201
+  },
+  {
+    "final_rankings": "281",
+    "nationality": "RUS",
+    "standing_player2": "Teymuraz Gabashvili",
+    "age": 36,
+    "final_rankings__points": 201
+  },
+  {
+    "final_rankings": "282",
+    "nationality": "POR",
+    "standing_player2": "Goncalo Oliveira",
+    "age": 26,
+    "final_rankings__points": 200
+  },
+  {
+    "final_rankings": "283",
+    "nationality": "RUS",
+    "standing_player2": "Evgenii Tiurnev",
+    "age": 24,
+    "final_rankings__points": 198
+  },
+  {
+    "final_rankings": "284",
+    "nationality": "CRO",
+    "standing_player2": "Borna Gojo",
+    "age": 23,
+    "final_rankings__points": 196
+  },
+  {
+    "final_rankings": "285",
+    "nationality": "CAN",
+    "standing_player2": "Peter Polansky",
+    "age": 33,
+    "final_rankings__points": 196
+  },
+  {
+    "final_rankings": "286",
+    "nationality": "COL",
+    "standing_player2": "Nicolas Mejia",
+    "age": 21,
+    "final_rankings__points": 196
+  },
+  {
+    "final_rankings": "287",
+    "nationality": "BRA",
+    "standing_player2": "Matheus Pucinelli De Almeida",
+    "age": 20,
+    "final_rankings__points": 192
+  },
+  {
+    "final_rankings": "288",
+    "nationality": "HUN",
+    "standing_player2": "Zsombor Piros",
+    "age": 22,
+    "final_rankings__points": 191
+  },
+  {
+    "final_rankings": "289",
+    "nationality": "JPN",
+    "standing_player2": "Hiroki Moriya",
+    "age": 31,
+    "final_rankings__points": 187
+  },
+  {
+    "final_rankings": "290",
+    "nationality": "FRA",
+    "standing_player2": "Evan Furness",
+    "age": 23,
+    "final_rankings__points": 186
+  },
+  {
+    "final_rankings": "291",
+    "nationality": "AUT",
+    "standing_player2": "Lucas Miedler",
+    "age": 25,
+    "final_rankings__points": 185
+  },
+  {
+    "final_rankings": "292",
+    "nationality": "AUT",
+    "standing_player2": "Gerald Melzer",
+    "age": 31,
+    "final_rankings__points": 183
+  },
+  {
+    "final_rankings": "293",
+    "nationality": "ESP",
+    "standing_player2": "Javier Barranco Cosano",
+    "age": 23,
+    "final_rankings__points": 183
+  },
+  {
+    "final_rankings": "294",
+    "nationality": "SVK",
+    "standing_player2": "Martin Klizan",
+    "age": 32,
+    "final_rankings__points": 181
+  },
+  {
+    "final_rankings": "295",
+    "nationality": "BRA",
+    "standing_player2": "Orlando Luz",
+    "age": 23,
+    "final_rankings__points": 180
+  },
+  {
+    "final_rankings": "296",
+    "nationality": "SLO",
+    "standing_player2": "Blaz Kavcic",
+    "age": 34,
+    "final_rankings__points": 179
+  },
+  {
+    "final_rankings": "297",
+    "nationality": "FRA",
+    "standing_player2": "Arthur Cazaux",
+    "age": 19,
+    "final_rankings__points": 178
+  },
+  {
+    "final_rankings": "298",
+    "nationality": "ECU",
+    "standing_player2": "Roberto Quiroz",
+    "age": 29,
+    "final_rankings__points": 178
+  },
+  {
+    "final_rankings": "299",
+    "nationality": "DOM",
+    "standing_player2": "Roberto Cid Subervi",
+    "age": 28,
+    "final_rankings__points": 176
+  },
+  {
+    "final_rankings": "300",
+    "nationality": "GER",
+    "standing_player2": "Julian Lenz",
+    "age": 28,
+    "final_rankings__points": 176
+  },
+  {
+    "final_rankings": "301",
+    "nationality": "ITA",
+    "standing_player2": "Raul Brancaccio",
+    "age": 24,
+    "final_rankings__points": 176
+  },
+  {
+    "final_rankings": "302",
+    "nationality": "ARG",
+    "standing_player2": "Santiago Rodriguez Taverna",
+    "age": 22,
+    "final_rankings__points": 175
+  },
+  {
+    "final_rankings": "303",
+    "nationality": "ITA",
+    "standing_player2": "Matteo Viola",
+    "age": 34,
+    "final_rankings__points": 175
+  },
+  {
+    "final_rankings": "304",
+    "nationality": "BIH",
+    "standing_player2": "Nerman Fatic",
+    "age": 27,
+    "final_rankings__points": 174
+  },
+  {
+    "final_rankings": "305",
+    "nationality": "ITA",
+    "standing_player2": "Riccardo Bonadio",
+    "age": 28,
+    "final_rankings__points": 173
+  },
+  {
+    "final_rankings": "306",
+    "nationality": "CZE",
+    "standing_player2": "Dalibor Svrcina",
+    "age": 19,
+    "final_rankings__points": 172
+  },
+  {
+    "final_rankings": "307",
+    "nationality": "GER",
+    "standing_player2": "Yannick Maden",
+    "age": 32,
+    "final_rankings__points": 172
+  },
+  {
+    "final_rankings": "308",
+    "nationality": "ESP",
+    "standing_player2": "Nikolas Sanchez Izquierdo",
+    "age": 22,
+    "final_rankings__points": 172
+  },
+  {
+    "final_rankings": "309",
+    "nationality": "ARG",
+    "standing_player2": "Leonardo Mayer",
+    "age": 34,
+    "final_rankings__points": 171
+  },
+  {
+    "final_rankings": "310",
+    "nationality": "SRB",
+    "standing_player2": "Danilo Petrovic",
+    "age": 29,
+    "final_rankings__points": 171
+  },
+  {
+    "final_rankings": "311",
+    "nationality": "CZE",
+    "standing_player2": "Jonas Forejtek",
+    "age": 20,
+    "final_rankings__points": 171
+  },
+  {
+    "final_rankings": "312",
+    "nationality": "TUN",
+    "standing_player2": "Malek Jaziri",
+    "age": 37,
+    "final_rankings__points": 170
+  },
+  {
+    "final_rankings": "313",
+    "nationality": "ARG",
+    "standing_player2": "Genaro Alberto Olivieri",
+    "age": 23,
+    "final_rankings__points": 167
+  },
+  {
+    "final_rankings": "314",
+    "nationality": "ESP",
+    "standing_player2": "Eduard Esteve Lobato",
+    "age": 27,
+    "final_rankings__points": 166
+  },
+  {
+    "final_rankings": "315",
+    "nationality": "FRA",
+    "standing_player2": "Antoine Escoffier",
+    "age": 29,
+    "final_rankings__points": 165
+  },
+  {
+    "final_rankings": "316",
+    "nationality": "ESP",
+    "standing_player2": "Nicolas Alvarez Varona",
+    "age": 20,
+    "final_rankings__points": 164
+  },
+  {
+    "final_rankings": "317",
+    "nationality": "FRA",
+    "standing_player2": "Kyrian Jacquet",
+    "age": 20,
+    "final_rankings__points": 163
+  },
+  {
+    "final_rankings": "318",
+    "nationality": "SRB",
+    "standing_player2": "Pedja Krstin",
+    "age": 27,
+    "final_rankings__points": 162
+  },
+  {
+    "final_rankings": "319",
+    "nationality": "ROU",
+    "standing_player2": "Filip Cristian Jianu",
+    "age": 20,
+    "final_rankings__points": 162
+  },
+  {
+    "final_rankings": "320",
+    "nationality": "ESP",
+    "standing_player2": "Marcel Granollers",
+    "age": 35,
+    "final_rankings__points": 161
+  },
+  {
+    "final_rankings": "321",
+    "nationality": "CHN",
+    "standing_player2": "Zhizhen Zhang",
+    "age": 25,
+    "final_rankings__points": 160
+  },
+  {
+    "final_rankings": "322",
+    "nationality": "CHI",
+    "standing_player2": "Gonzalo Lama",
+    "age": 28,
+    "final_rankings__points": 158
+  },
+  {
+    "final_rankings": "323",
+    "nationality": "USA",
+    "standing_player2": "Emilio Nava",
+    "age": 20,
+    "final_rankings__points": 155
+  },
+  {
+    "final_rankings": "324",
+    "nationality": "BRA",
+    "standing_player2": "Igor Marcondes",
+    "age": 24,
+    "final_rankings__points": 155
+  },
+  {
+    "final_rankings": "325",
+    "nationality": "ARG",
+    "standing_player2": "Hernan Casanova",
+    "age": 27,
+    "final_rankings__points": 155
+  },
+  {
+    "final_rankings": "326",
+    "nationality": "USA",
+    "standing_player2": "Bradley Klahn",
+    "age": 31,
+    "final_rankings__points": 154
+  },
+  {
+    "final_rankings": "327",
+    "nationality": "ESP",
+    "standing_player2": "Adrian Menendez-Maceiras",
+    "age": 36,
+    "final_rankings__points": 154
+  },
+  {
+    "final_rankings": "328",
+    "nationality": "RUS",
+    "standing_player2": "Alexander Shevchenko",
+    "age": 21,
+    "final_rankings__points": 154
+  },
+  {
+    "final_rankings": "329",
+    "nationality": "ESP",
+    "standing_player2": "Carlos Gimeno Valero",
+    "age": 20,
+    "final_rankings__points": 152
+  },
+  {
+    "final_rankings": "330",
+    "nationality": "ITA",
+    "standing_player2": "Francesco Forti",
+    "age": 22,
+    "final_rankings__points": 151
+  },
+  {
+    "final_rankings": "331",
+    "nationality": "ESP",
+    "standing_player2": "Tommy Robredo",
+    "age": 39,
+    "final_rankings__points": 149
+  },
+  {
+    "final_rankings": "332",
+    "nationality": "SRB",
+    "standing_player2": "Miljan Zekic",
+    "age": 33,
+    "final_rankings__points": 149
+  },
+  {
+    "final_rankings": "333",
+    "nationality": "NED",
+    "standing_player2": "Jelle Sels",
+    "age": 26,
+    "final_rankings__points": 148
+  },
+  {
+    "final_rankings": "334",
+    "nationality": "FRA",
+    "standing_player2": "Matteo Martineau",
+    "age": 22,
+    "final_rankings__points": 146
+  },
+  {
+    "final_rankings": "335",
+    "nationality": "AUS",
+    "standing_player2": "Akira Santillan",
+    "age": 24,
+    "final_rankings__points": 144
+  },
+  {
+    "final_rankings": "336",
+    "nationality": "BEL",
+    "standing_player2": "Michael Geerts",
+    "age": 26,
+    "final_rankings__points": 144
+  },
+  {
+    "final_rankings": "337",
+    "nationality": "TUR",
+    "standing_player2": "Ergi Kirkin",
+    "age": 22,
+    "final_rankings__points": 144
+  },
+  {
+    "final_rankings": "338",
+    "nationality": "ARG",
+    "standing_player2": "Facundo Diaz Acosta",
+    "age": 21,
+    "final_rankings__points": 144
+  },
+  {
+    "final_rankings": "339",
+    "nationality": "RUS",
+    "standing_player2": "Alexey Vatutin",
+    "age": 29,
+    "final_rankings__points": 144
+  },
+  {
+    "final_rankings": "340",
+    "nationality": "GBR",
+    "standing_player2": "Aidan McHugh",
+    "age": 21,
+    "final_rankings__points": 143
+  },
+  {
+    "final_rankings": "341",
+    "nationality": "ITA",
+    "standing_player2": "Luciano Darderi",
+    "age": 19,
+    "final_rankings__points": 142
+  },
+  {
+    "final_rankings": "342",
+    "nationality": "TUN",
+    "standing_player2": "Aziz Dougaz",
+    "age": 24,
+    "final_rankings__points": 141
+  },
+  {
+    "final_rankings": "343",
+    "nationality": "JAM",
+    "standing_player2": "Dustin Brown",
+    "age": 37,
+    "final_rankings__points": 138
+  },
+  {
+    "final_rankings": "344",
+    "nationality": "MAR",
+    "standing_player2": "Elliot Benchetrit",
+    "age": 23,
+    "final_rankings__points": 137
+  },
+  {
+    "final_rankings": "345",
+    "nationality": "NOR",
+    "standing_player2": "Viktor Durasovic",
+    "age": 24,
+    "final_rankings__points": 137
+  },
+  {
+    "final_rankings": "346",
+    "nationality": "GER",
+    "standing_player2": "Mischa Zverev",
+    "age": 34,
+    "final_rankings__points": 135
+  },
+  {
+    "final_rankings": "347",
+    "nationality": "GBR",
+    "standing_player2": "Paul Jubb",
+    "age": 22,
+    "final_rankings__points": 135
+  },
+  {
+    "final_rankings": "348",
+    "nationality": "USA",
+    "standing_player2": "Nicolas Moreno De Alboran",
+    "age": 24,
+    "final_rankings__points": 134
+  },
+  {
+    "final_rankings": "349",
+    "nationality": "BRA",
+    "standing_player2": "Daniel Dutra da Silva",
+    "age": 33,
+    "final_rankings__points": 134
+  },
+  {
+    "final_rankings": "350",
+    "nationality": "GER",
+    "standing_player2": "Sebastian Fanselow",
+    "age": 29,
+    "final_rankings__points": 134
+  },
+  {
+    "final_rankings": "351",
+    "nationality": "AUT",
+    "standing_player2": "Alexander Erler",
+    "age": 24,
+    "final_rankings__points": 134
+  },
+  {
+    "final_rankings": "352",
+    "nationality": "SUI",
+    "standing_player2": "Johan Nikles",
+    "age": 24,
+    "final_rankings__points": 132
+  },
+  {
+    "final_rankings": "353",
+    "nationality": "DOM",
+    "standing_player2": "Nick Hardt",
+    "age": 21,
+    "final_rankings__points": 127
+  },
+  {
+    "final_rankings": "354",
+    "nationality": "AUT",
+    "standing_player2": "Filip Misolic",
+    "age": 20,
+    "final_rankings__points": 126
+  },
+  {
+    "final_rankings": "355",
+    "nationality": "ISR",
+    "standing_player2": "Yshai Oliel",
+    "age": 21,
+    "final_rankings__points": 126
+  },
+  {
+    "final_rankings": "356",
+    "nationality": "USA",
+    "standing_player2": "Aleksandar Kovacevic",
+    "age": 23,
+    "final_rankings__points": 125
+  },
+  {
+    "final_rankings": "357",
+    "nationality": "USA",
+    "standing_player2": "JC Aragone",
+    "age": 26,
+    "final_rankings__points": 125
+  },
+  {
+    "final_rankings": "358",
+    "nationality": "FRA",
+    "standing_player2": "Alexis Gautier",
+    "age": 24,
+    "final_rankings__points": 124
+  },
+  {
+    "final_rankings": "359",
+    "nationality": "BRA",
+    "standing_player2": "Pedro Sakamoto",
+    "age": 28,
+    "final_rankings__points": 124
+  },
+  {
+    "final_rankings": "360",
+    "nationality": "USA",
+    "standing_player2": "Alex Rybakov",
+    "age": 24,
+    "final_rankings__points": 123
+  },
+  {
+    "final_rankings": "361",
+    "nationality": "GER",
+    "standing_player2": "Louis Wessels",
+    "age": 23,
+    "final_rankings__points": 123
+  },
+  {
+    "final_rankings": "362",
+    "nationality": "TPE",
+    "standing_player2": "Yu Hsiou Hsu",
+    "age": 22,
+    "final_rankings__points": 123
+  },
+  {
+    "final_rankings": "363",
+    "nationality": "ITA",
+    "standing_player2": "Matteo Arnaldi",
+    "age": 20,
+    "final_rankings__points": 122
+  },
+  {
+    "final_rankings": "364",
+    "nationality": "ITA",
+    "standing_player2": "Luca Nardi",
+    "age": 18,
+    "final_rankings__points": 121
+  },
+  {
+    "final_rankings": "365",
+    "nationality": "BUL",
+    "standing_player2": "Adrian Andreev",
+    "age": 20,
+    "final_rankings__points": 121
+  },
+  {
+    "final_rankings": "366",
+    "nationality": "FRA",
+    "standing_player2": "Calvin Hemery",
+    "age": 26,
+    "final_rankings__points": 120
+  },
+  {
+    "final_rankings": "367",
+    "nationality": "NED",
+    "standing_player2": "Gijs Brouwer",
+    "age": 25,
+    "final_rankings__points": 119
+  },
+  {
+    "final_rankings": "368",
+    "nationality": "ESP",
+    "standing_player2": "Roberto Ortega-Olmedo",
+    "age": 30,
+    "final_rankings__points": 119
+  },
+  {
+    "final_rankings": "369",
+    "nationality": "ITA",
+    "standing_player2": "Filippo Baldi",
+    "age": 25,
+    "final_rankings__points": 118
+  },
+  {
+    "final_rankings": "370",
+    "nationality": "MON",
+    "standing_player2": "Lucas Catarina",
+    "age": 25,
+    "final_rankings__points": 118
+  },
+  {
+    "final_rankings": "371",
+    "nationality": "HUN",
+    "standing_player2": "Fabian Marozsan",
+    "age": 22,
+    "final_rankings__points": 116
+  },
+  {
+    "final_rankings": "372",
+    "nationality": "CZE",
+    "standing_player2": "Michael Vrbensky",
+    "age": 22,
+    "final_rankings__points": 116
+  },
+  {
+    "final_rankings": "373",
+    "nationality": "ESP",
+    "standing_player2": "Alvaro Lopez San Martin",
+    "age": 24,
+    "final_rankings__points": 115
+  },
+  {
+    "final_rankings": "374",
+    "nationality": "USA",
+    "standing_player2": "Nick Chappell",
+    "age": 29,
+    "final_rankings__points": 115
+  },
+  {
+    "final_rankings": "375",
+    "nationality": "AUS",
+    "standing_player2": "Rinky Hijikata",
+    "age": 20,
+    "final_rankings__points": 113
+  },
+  {
+    "final_rankings": "376",
+    "nationality": "NED",
+    "standing_player2": "Igor Sijsling",
+    "age": 34,
+    "final_rankings__points": 113
+  },
+  {
+    "final_rankings": "377",
+    "nationality": "ITA",
+    "standing_player2": "Facundo Juarez",
+    "age": 24,
+    "final_rankings__points": 113
+  },
+  {
+    "final_rankings": "378",
+    "nationality": "CAN",
+    "standing_player2": "Alexis Galarneau",
+    "age": 22,
+    "final_rankings__points": 112
+  },
+  {
+    "final_rankings": "379",
+    "nationality": "GER",
+    "standing_player2": "Rudolf Molleker",
+    "age": 21,
+    "final_rankings__points": 112
+  },
+  {
+    "final_rankings": "380",
+    "nationality": "ITA",
+    "standing_player2": "Julian Ocleppo",
+    "age": 24,
+    "final_rankings__points": 112
+  },
+  {
+    "final_rankings": "381",
+    "nationality": "ISR",
+    "standing_player2": "Dudi Sela",
+    "age": 36,
+    "final_rankings__points": 111
+  },
+  {
+    "final_rankings": "382",
+    "nationality": "AUS",
+    "standing_player2": "Andrew Harris",
+    "age": 27,
+    "final_rankings__points": 111
+  },
+  {
+    "final_rankings": "383",
+    "nationality": "BAR",
+    "standing_player2": "Darian King",
+    "age": 29,
+    "final_rankings__points": 110
+  },
+  {
+    "final_rankings": "384",
+    "nationality": "POL",
+    "standing_player2": "Filip Peliwo",
+    "age": 27,
+    "final_rankings__points": 110
+  },
+  {
+    "final_rankings": "385",
+    "nationality": "KOR",
+    "standing_player2": "Duckhee Lee",
+    "age": 23,
+    "final_rankings__points": 109
+  },
+  {
+    "final_rankings": "386",
+    "nationality": "ESP",
+    "standing_player2": "Oriol Roca Batalla",
+    "age": 28,
+    "final_rankings__points": 109
+  },
+  {
+    "final_rankings": "387",
+    "nationality": "JPN",
+    "standing_player2": "Shintaro Mochizuki",
+    "age": 18,
+    "final_rankings__points": 108
+  },
+  {
+    "final_rankings": "388",
+    "nationality": "GER",
+    "standing_player2": "Benjamin Hassan",
+    "age": 26,
+    "final_rankings__points": 108
+  },
+  {
+    "final_rankings": "389",
+    "nationality": "USA",
+    "standing_player2": "Zachary Svajda",
+    "age": 19,
+    "final_rankings__points": 107
+  },
+  {
+    "final_rankings": "390",
+    "nationality": "USA",
+    "standing_player2": "Noah Rubin",
+    "age": 25,
+    "final_rankings__points": 107
+  },
+  {
+    "final_rankings": "391",
+    "nationality": "GBR",
+    "standing_player2": "James Ward",
+    "age": 34,
+    "final_rankings__points": 107
+  },
+  {
+    "final_rankings": "392",
+    "nationality": "UZB",
+    "standing_player2": "Khumoyun Sultanov",
+    "age": 23,
+    "final_rankings__points": 107
+  },
+  {
+    "final_rankings": "393",
+    "nationality": "SWE",
+    "standing_player2": "Dragos Nicolae Madaras",
+    "age": 24,
+    "final_rankings__points": 107
+  },
+  {
+    "final_rankings": "394",
+    "nationality": "AUS",
+    "standing_player2": "John-Patrick Smith",
+    "age": 32,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "395",
+    "nationality": "FIN",
+    "standing_player2": "Otto Virtanen",
+    "age": 20,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "396",
+    "nationality": "USA",
+    "standing_player2": "Oliver Crawford",
+    "age": 22,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "397",
+    "nationality": "GER",
+    "standing_player2": "Elmar Ejupovic",
+    "age": 28,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "398",
+    "nationality": "UKR",
+    "standing_player2": "Oleksii Krutykh",
+    "age": 21,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "399",
+    "nationality": "GRE",
+    "standing_player2": "Michail Pervolarakis",
+    "age": 25,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "400",
+    "nationality": "BIH",
+    "standing_player2": "Aldin Setkic",
+    "age": 34,
+    "final_rankings__points": 106
+  },
+  {
+    "final_rankings": "401",
+    "nationality": "FRA",
+    "standing_player2": "Dan Added",
+    "age": 22,
+    "final_rankings__points": 105
+  },
+  {
+    "final_rankings": "402",
+    "nationality": "BEL",
+    "standing_player2": "Christopher Heyman",
+    "age": 28,
+    "final_rankings__points": 104
+  },
+  {
+    "final_rankings": "403",
+    "nationality": "KAZ",
+    "standing_player2": "Denis Yevseyev",
+    "age": 28,
+    "final_rankings__points": 104
+  },
+  {
+    "final_rankings": "404",
+    "nationality": "GER",
+    "standing_player2": "Mats Rosenkranz",
+    "age": 23,
+    "final_rankings__points": 103
+  },
+  {
+    "final_rankings": "405",
+    "nationality": "BUL",
+    "standing_player2": "Alexandar Lazarov",
+    "age": 24,
+    "final_rankings__points": 101
+  },
+  {
+    "final_rankings": "406",
+    "nationality": "FRA",
+    "standing_player2": "Nicolas Mahut",
+    "age": 39,
+    "final_rankings__points": 100
+  },
+  {
+    "final_rankings": "407",
+    "nationality": "UKR",
+    "standing_player2": "Georgii Kravchenko",
+    "age": 21,
+    "final_rankings__points": 100
+  },
+  {
+    "final_rankings": "408",
+    "nationality": "ITA",
+    "standing_player2": "Giovanni Fonio",
+    "age": 23,
+    "final_rankings__points": 100
+  },
+  {
+    "final_rankings": "409",
+    "nationality": "ITA",
+    "standing_player2": "Alessandro Bega",
+    "age": 30,
+    "final_rankings__points": 100
+  },
+  {
+    "final_rankings": "410",
+    "nationality": "CHN",
+    "standing_player2": "Zhe Li",
+    "age": 35,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "411",
+    "nationality": "USA",
+    "standing_player2": "Donald Young",
+    "age": 32,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "412",
+    "nationality": "ARG",
+    "standing_player2": "Francisco Comesana",
+    "age": 21,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "413",
+    "nationality": "ESP",
+    "standing_player2": "Carlos Gomez-Herrera",
+    "age": 31,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "414",
+    "nationality": "IND",
+    "standing_player2": "Mukund Sasikumar",
+    "age": 24,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "415",
+    "nationality": "BLR",
+    "standing_player2": "Uladzimir Ignatik",
+    "age": 31,
+    "final_rankings__points": 99
+  },
+  {
+    "final_rankings": "416",
+    "nationality": "PER",
+    "standing_player2": "Nicolas Alvarez",
+    "age": 25,
+    "final_rankings__points": 97
+  },
+  {
+    "final_rankings": "417",
+    "nationality": "KOR",
+    "standing_player2": "Yun seong Chung",
+    "age": 23,
+    "final_rankings__points": 97
+  },
+  {
+    "final_rankings": "418",
+    "nationality": "BRA",
+    "standing_player2": "Gilbert Klier Junior",
+    "age": 21,
+    "final_rankings__points": 97
+  },
+  {
+    "final_rankings": "419",
+    "nationality": "CRO",
+    "standing_player2": "Viktor Galovic",
+    "age": 31,
+    "final_rankings__points": 96
+  },
+  {
+    "final_rankings": "420",
+    "nationality": "FRA",
+    "standing_player2": "Harold Mayot",
+    "age": 19,
+    "final_rankings__points": 95
+  },
+  {
+    "final_rankings": "421",
+    "nationality": "SUI",
+    "standing_player2": "Sandro Ehrat",
+    "age": 30,
+    "final_rankings__points": 95
+  },
+  {
+    "final_rankings": "422",
+    "nationality": "ROU",
+    "standing_player2": "Nicholas David Ionel",
+    "age": 19,
+    "final_rankings__points": 94
+  },
+  {
+    "final_rankings": "423",
+    "nationality": "GER",
+    "standing_player2": "Peter Heller",
+    "age": 29,
+    "final_rankings__points": 94
+  },
+  {
+    "final_rankings": "424",
+    "nationality": "POL",
+    "standing_player2": "Daniel Michalski",
+    "age": 21,
+    "final_rankings__points": 94
+  },
+  {
+    "final_rankings": "425",
+    "nationality": "USA",
+    "standing_player2": "Kevin King",
+    "age": 30,
+    "final_rankings__points": 93
+  },
+  {
+    "final_rankings": "426",
+    "nationality": "TUR",
+    "standing_player2": "Yanki Erel",
+    "age": 21,
+    "final_rankings__points": 93
+  },
+  {
+    "final_rankings": "427",
+    "nationality": "USA",
+    "standing_player2": "Zane Khan",
+    "age": 19,
+    "final_rankings__points": 92
+  },
+  {
+    "final_rankings": "428",
+    "nationality": "JPN",
+    "standing_player2": "Yuta Shimizu",
+    "age": 22,
+    "final_rankings__points": 92
+  },
+  {
+    "final_rankings": "429",
+    "nationality": "ARG",
+    "standing_player2": "Matias Zukas",
+    "age": 25,
+    "final_rankings__points": 92
+  },
+  {
+    "final_rankings": "430",
+    "nationality": "CHN",
+    "standing_player2": "Yan Bai",
+    "age": 32,
+    "final_rankings__points": 91
+  },
+  {
+    "final_rankings": "431",
+    "nationality": "BRA",
+    "standing_player2": "Guilherme Clezar",
+    "age": 28,
+    "final_rankings__points": 91
+  },
+  {
+    "final_rankings": "432",
+    "nationality": "KOR",
+    "standing_player2": "JiSung Nam",
+    "age": 28,
+    "final_rankings__points": 91
+  },
+  {
+    "final_rankings": "433",
+    "nationality": "COL",
+    "standing_player2": "Alejandro Gonzalez",
+    "age": 32,
+    "final_rankings__points": 90
+  },
+  {
+    "final_rankings": "434",
+    "nationality": "ESP",
+    "standing_player2": "Pol Martin Tiffon",
+    "age": 22,
+    "final_rankings__points": 90
+  },
+  {
+    "final_rankings": "435",
+    "nationality": "AUS",
+    "standing_player2": "Dayne Kelly",
+    "age": 31,
+    "final_rankings__points": 89
+  },
+  {
+    "final_rankings": "436",
+    "nationality": "GBR",
+    "standing_player2": "Billy Harris",
+    "age": 26,
+    "final_rankings__points": 88
+  },
+  {
+    "final_rankings": "437",
+    "nationality": "ARG",
+    "standing_player2": "Gonzalo Villanueva",
+    "age": 26,
+    "final_rankings__points": 88
+  },
+  {
+    "final_rankings": "438",
+    "nationality": "CZE",
+    "standing_player2": "Marek Gengel",
+    "age": 26,
+    "final_rankings__points": 88
+  },
+  {
+    "final_rankings": "439",
+    "nationality": "FRA",
+    "standing_player2": "Matthieu Perchicot",
+    "age": 29,
+    "final_rankings__points": 88
+  },
+  {
+    "final_rankings": "440",
+    "nationality": "JPN",
+    "standing_player2": "Shuichi Sekiguchi",
+    "age": 30,
+    "final_rankings__points": 87
+  },
+  {
+    "final_rankings": "441",
+    "nationality": "GER",
+    "standing_player2": "Johannes Haerteis",
+    "age": 25,
+    "final_rankings__points": 87
+  },
+  {
+    "final_rankings": "442",
+    "nationality": "JPN",
+    "standing_player2": "Shintaro Imai",
+    "age": 28,
+    "final_rankings__points": 86
+  },
+  {
+    "final_rankings": "443",
+    "nationality": "ARG",
+    "standing_player2": "Juan Pablo Paz",
+    "age": 26,
+    "final_rankings__points": 86
+  },
+  {
+    "final_rankings": "444",
+    "nationality": "TUN",
+    "standing_player2": "Skander Mansouri",
+    "age": 26,
+    "final_rankings__points": 86
+  },
+  {
+    "final_rankings": "445",
+    "nationality": "RUS",
+    "standing_player2": "Yan Bondarevskiy",
+    "age": 21,
+    "final_rankings__points": 85
+  },
+  {
+    "final_rankings": "446",
+    "nationality": "ITA",
+    "standing_player2": "Jacopo Berrettini",
+    "age": 23,
+    "final_rankings__points": 85
+  },
+  {
+    "final_rankings": "447",
+    "nationality": "ESP",
+    "standing_player2": "Jose Fco. Vidal Azorin",
+    "age": 28,
+    "final_rankings__points": 85
+  },
+  {
+    "final_rankings": "448",
+    "nationality": "USA",
+    "standing_player2": "Govind Nanda",
+    "age": 20,
+    "final_rankings__points": 84
+  },
+  {
+    "final_rankings": "449",
+    "nationality": "BRA",
+    "standing_player2": "Thomaz Bellucci",
+    "age": 33,
+    "final_rankings__points": 84
+  },
+  {
+    "final_rankings": "450",
+    "nationality": "COL",
+    "standing_player2": "Cristian Rodriguez",
+    "age": 31,
+    "final_rankings__points": 84
+  },
+  {
+    "final_rankings": "451",
+    "nationality": "RUS",
+    "standing_player2": "Ivan Nedelko",
+    "age": 35,
+    "final_rankings__points": 84
+  },
+  {
+    "final_rankings": "452",
+    "nationality": "FRA",
+    "standing_player2": "Corentin Denolly",
+    "age": 24,
+    "final_rankings__points": 82
+  },
+  {
+    "final_rankings": "453",
+    "nationality": "CZE",
+    "standing_player2": "David Poljak",
+    "age": 25,
+    "final_rankings__points": 82
+  },
+  {
+    "final_rankings": "454",
+    "nationality": "JPN",
+    "standing_player2": "Rio Noguchi",
+    "age": 22,
+    "final_rankings__points": 82
+  },
+  {
+    "final_rankings": "455",
+    "nationality": "BEL",
+    "standing_player2": "Steve Darcis",
+    "age": 37,
+    "final_rankings__points": 81
+  },
+  {
+    "final_rankings": "456",
+    "nationality": "USA",
+    "standing_player2": "Ryan Harrison",
+    "age": 29,
+    "final_rankings__points": 81
+  },
+  {
+    "final_rankings": "457",
+    "nationality": "ARG",
+    "standing_player2": "Agustin Velotti",
+    "age": 29,
+    "final_rankings__points": 81
+  },
+  {
+    "final_rankings": "458",
+    "nationality": "AUS",
+    "standing_player2": "Harry Bourchier",
+    "age": 25,
+    "final_rankings__points": 81
+  },
+  {
+    "final_rankings": "459",
+    "nationality": "GER",
+    "standing_player2": "Lucas Gerch",
+    "age": 27,
+    "final_rankings__points": 81
+  },
+  {
+    "final_rankings": "460",
+    "nationality": "HUN",
+    "standing_player2": "Mate Valkusz",
+    "age": 23,
+    "final_rankings__points": 80
+  },
+  {
+    "final_rankings": "461",
+    "nationality": "ESP",
+    "standing_player2": "Guillermo Garcia-Lopez",
+    "age": 38,
+    "final_rankings__points": 80
+  },
+  {
+    "final_rankings": "462",
+    "nationality": "BEL",
+    "standing_player2": "Jeroen Vanneste",
+    "age": 27,
+    "final_rankings__points": 80
+  },
+  {
+    "final_rankings": "463",
+    "nationality": "FRA",
+    "standing_player2": "Baptiste Crepatte",
+    "age": 27,
+    "final_rankings__points": 80
+  },
+  {
+    "final_rankings": "464",
+    "nationality": "GBR",
+    "standing_player2": "Anton Matusevich",
+    "age": 20,
+    "final_rankings__points": 79
+  },
+  {
+    "final_rankings": "465",
+    "nationality": "POL",
+    "standing_player2": "Pawel Cias",
+    "age": 27,
+    "final_rankings__points": 79
+  },
+  {
+    "final_rankings": "466",
+    "nationality": "POR",
+    "standing_player2": "Tiago Cacao",
+    "age": 23,
+    "final_rankings__points": 79
+  },
+  {
+    "final_rankings": "467",
+    "nationality": "USA",
+    "standing_player2": "Raymond Sarmiento",
+    "age": 29,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "468",
+    "nationality": "SUI",
+    "standing_player2": "Jakub Paul",
+    "age": 22,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "469",
+    "nationality": "ARG",
+    "standing_player2": "Matias Franco Descotte",
+    "age": 27,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "470",
+    "nationality": "SWE",
+    "standing_player2": "Markus Eriksson",
+    "age": 32,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "471",
+    "nationality": "BRA",
+    "standing_player2": "Oscar Jose Gutierrez",
+    "age": 28,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "472",
+    "nationality": "RUS",
+    "standing_player2": "Ivan Gakhov",
+    "age": 25,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "473",
+    "nationality": "RUS",
+    "standing_player2": "Bogdan Bobrov",
+    "age": 24,
+    "final_rankings__points": 78
+  },
+  {
+    "final_rankings": "474",
+    "nationality": "USA",
+    "standing_player2": "Michael Redlicki",
+    "age": 28,
+    "final_rankings__points": 77
+  },
+  {
+    "final_rankings": "475",
+    "nationality": "UKR",
+    "standing_player2": "Vladyslav Orlov",
+    "age": 26,
+    "final_rankings__points": 77
+  },
+  {
+    "final_rankings": "476",
+    "nationality": "GER",
+    "standing_player2": "Tobias Simon",
+    "age": 30,
+    "final_rankings__points": 77
+  },
+  {
+    "final_rankings": "477",
+    "nationality": "BRA",
+    "standing_player2": "Gustavo Heide",
+    "age": 19,
+    "final_rankings__points": 76
+  },
+  {
+    "final_rankings": "478",
+    "nationality": "SUI",
+    "standing_player2": "Damien Wenger",
+    "age": 21,
+    "final_rankings__points": 76
+  },
+  {
+    "final_rankings": "479",
+    "nationality": "USA",
+    "standing_player2": "Christian Langmo",
+    "age": 25,
+    "final_rankings__points": 76
+  },
+  {
+    "final_rankings": "480",
+    "nationality": "COL",
+    "standing_player2": "Nicolas Barrientos",
+    "age": 34,
+    "final_rankings__points": 75
+  },
+  {
+    "final_rankings": "481",
+    "nationality": "CRO",
+    "standing_player2": "Matija Pecotic",
+    "age": 32,
+    "final_rankings__points": 75
+  },
+  {
+    "final_rankings": "482",
+    "nationality": "CYP",
+    "standing_player2": "Petros Chrysochos",
+    "age": 25,
+    "final_rankings__points": 75
+  },
+  {
+    "final_rankings": "483",
+    "nationality": "FRA",
+    "standing_player2": "Laurent Lokoli",
+    "age": 27,
+    "final_rankings__points": 75
+  },
+  {
+    "final_rankings": "484",
+    "nationality": "ISR",
+    "standing_player2": "Edan Leshem",
+    "age": 24,
+    "final_rankings__points": 75
+  },
+  {
+    "final_rankings": "485",
+    "nationality": "SRB",
+    "standing_player2": "Janko Tipsarevic",
+    "age": 37,
+    "final_rankings__points": 74
+  },
+  {
+    "final_rankings": "486",
+    "nationality": "ITA",
+    "standing_player2": "Stefano Napolitano",
+    "age": 26,
+    "final_rankings__points": 74
+  },
+  {
+    "final_rankings": "487",
+    "nationality": "ARG",
+    "standing_player2": "Juan Bautista Torres",
+    "age": 19,
+    "final_rankings__points": 74
+  },
+  {
+    "final_rankings": "488",
+    "nationality": "USA",
+    "standing_player2": "Vasil Kirkov",
+    "age": 22,
+    "final_rankings__points": 74
+  },
+  {
+    "final_rankings": "489",
+    "nationality": "COL",
+    "standing_player2": "Alejandro Gomez",
+    "age": 30,
+    "final_rankings__points": 73
+  },
+  {
+    "final_rankings": "490",
+    "nationality": "UKR",
+    "standing_player2": "Eric Vanshelboim",
+    "age": 20,
+    "final_rankings__points": 73
+  },
+  {
+    "final_rankings": "491",
+    "nationality": "SUI",
+    "standing_player2": "Antoine Bellier",
+    "age": 25,
+    "final_rankings__points": 73
+  },
+  {
+    "final_rankings": "492",
+    "nationality": "ITA",
+    "standing_player2": "Alexander Weis",
+    "age": 24,
+    "final_rankings__points": 73
+  },
+  {
+    "final_rankings": "493",
+    "nationality": "JPN",
+    "standing_player2": "Naoki Nakagawa",
+    "age": 25,
+    "final_rankings__points": 72
+  },
+  {
+    "final_rankings": "494",
+    "nationality": "ESP",
+    "standing_player2": "Carlos Sanchez Jover",
+    "age": 21,
+    "final_rankings__points": 72
+  },
+  {
+    "final_rankings": "495",
+    "nationality": "KOR",
+    "standing_player2": "Hyeon Chung",
+    "age": 25,
+    "final_rankings__points": 71
+  },
+  {
+    "final_rankings": "496",
+    "nationality": "AUS",
+    "standing_player2": "Dane Sweeny",
+    "age": 20,
+    "final_rankings__points": 71
+  },
+  {
+    "final_rankings": "497",
+    "nationality": "ZIM",
+    "standing_player2": "Benjamin Lock",
+    "age": 28,
+    "final_rankings__points": 71
+  },
+  {
+    "final_rankings": "498",
+    "nationality": "FRA",
+    "standing_player2": "Jules Okala",
+    "age": 24,
+    "final_rankings__points": 70
+  },
+  {
+    "final_rankings": "499",
+    "nationality": "AUT",
+    "standing_player2": "Maximilian Neuchrist",
+    "age": 30,
+    "final_rankings__points": 70
+  },
+  {
+    "final_rankings": "500",
+    "nationality": "BRA",
+    "standing_player2": "Gabriel Decamps",
+    "age": 22,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "501",
+    "nationality": "BEL",
+    "standing_player2": "Arthur De Greef",
+    "age": 29,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "502",
+    "nationality": "FRA",
+    "standing_player2": "Luca Van Assche",
+    "age": 17,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "503",
+    "nationality": "URU",
+    "standing_player2": "Martin Cuevas",
+    "age": 29,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "504",
+    "nationality": "CZE",
+    "standing_player2": "Jan Satral",
+    "age": 31,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "505",
+    "nationality": "RUS",
+    "standing_player2": "Artem Dubrivnyy",
+    "age": 22,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "506",
+    "nationality": "FRA",
+    "standing_player2": "Clement Tabur",
+    "age": 21,
+    "final_rankings__points": 69
+  },
+  {
+    "final_rankings": "507",
+    "nationality": "POL",
+    "standing_player2": "Jerzy Janowicz",
+    "age": 31,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "508",
+    "nationality": "FRA",
+    "standing_player2": "Lucas Poullain",
+    "age": 26,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "509",
+    "nationality": "GER",
+    "standing_player2": "Henri Squire",
+    "age": 21,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "510",
+    "nationality": "GBR",
+    "standing_player2": "Stuart Parker",
+    "age": 24,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "511",
+    "nationality": "GER",
+    "standing_player2": "Marvin Moeller",
+    "age": 22,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "512",
+    "nationality": "BEL",
+    "standing_player2": "Gauthier Onclin",
+    "age": 20,
+    "final_rankings__points": 68
+  },
+  {
+    "final_rankings": "513",
+    "nationality": "CHI",
+    "standing_player2": "Bastian Malla",
+    "age": 25,
+    "final_rankings__points": 67
+  },
+  {
+    "final_rankings": "514",
+    "nationality": "FRA",
+    "standing_player2": "Kenny De Schepper",
+    "age": 34,
+    "final_rankings__points": 67
+  },
+  {
+    "final_rankings": "515",
+    "nationality": "USA",
+    "standing_player2": "Gage Brymer",
+    "age": 26,
+    "final_rankings__points": 66
+  },
+  {
+    "final_rankings": "516",
+    "nationality": "ARG",
+    "standing_player2": "Facundo Arguello",
+    "age": 29,
+    "final_rankings__points": 65
+  },
+  {
+    "final_rankings": "517",
+    "nationality": "LIB",
+    "standing_player2": "Hady Habib",
+    "age": 23,
+    "final_rankings__points": 65
+  },
+  {
+    "final_rankings": "518",
+    "nationality": "RUS",
+    "standing_player2": "Alibek Kachmazov",
+    "age": 19,
+    "final_rankings__points": 65
+  },
+  {
+    "final_rankings": "519",
+    "nationality": "SWE",
+    "standing_player2": "Christian Lindell",
+    "age": 30,
+    "final_rankings__points": 65
+  },
+  {
+    "final_rankings": "520",
+    "nationality": "CZE",
+    "standing_player2": "Adam Pavlasek",
+    "age": 27,
+    "final_rankings__points": 65
+  },
+  {
+    "final_rankings": "521",
+    "nationality": "AUS",
+    "standing_player2": "Li Tu",
+    "age": 25,
+    "final_rankings__points": 64
+  },
+  {
+    "final_rankings": "522",
+    "nationality": "GBR",
+    "standing_player2": "Alastair Gray",
+    "age": 23,
+    "final_rankings__points": 64
+  },
+  {
+    "final_rankings": "523",
+    "nationality": "DOM",
+    "standing_player2": "Jose Hernandez-Fernandez",
+    "age": 31,
+    "final_rankings__points": 64
+  },
+  {
+    "final_rankings": "524",
+    "nationality": "FRA",
+    "standing_player2": "Sadio Doumbia",
+    "age": 31,
+    "final_rankings__points": 64
+  },
+  {
+    "final_rankings": "525",
+    "nationality": "SWE",
+    "standing_player2": "Jonathan Mridha",
+    "age": 26,
+    "final_rankings__points": 64
+  },
+  {
+    "final_rankings": "526",
+    "nationality": "ESP",
+    "standing_player2": "Pablo Llamas Ruiz",
+    "age": 19,
+    "final_rankings__points": 63
+  },
+  {
+    "final_rankings": "527",
+    "nationality": "USA",
+    "standing_player2": "Evan King",
+    "age": 29,
+    "final_rankings__points": 63
+  },
+  {
+    "final_rankings": "528",
+    "nationality": "RUS",
+    "standing_player2": "Konstantin Kravchuk",
+    "age": 36,
+    "final_rankings__points": 63
+  },
+  {
+    "final_rankings": "529",
+    "nationality": "ESP",
+    "standing_player2": "Alex Marti Pujolras",
+    "age": 22,
+    "final_rankings__points": 62
+  },
+  {
+    "final_rankings": "530",
+    "nationality": "BRA",
+    "standing_player2": "Mateus Alves",
+    "age": 20,
+    "final_rankings__points": 62
+  },
+  {
+    "final_rankings": "531",
+    "nationality": "FRA",
+    "standing_player2": "Clement Chidekh",
+    "age": 20,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "532",
+    "nationality": "USA",
+    "standing_player2": "Sam Riffice",
+    "age": 22,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "533",
+    "nationality": "USA",
+    "standing_player2": "Patrick Kypson",
+    "age": 22,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "534",
+    "nationality": "USA",
+    "standing_player2": "Alexander Sarkissian",
+    "age": 31,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "535",
+    "nationality": "KAZ",
+    "standing_player2": "Aleksandr Nedovyesov",
+    "age": 34,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "536",
+    "nationality": "ITA",
+    "standing_player2": "Edoardo Lavagno",
+    "age": 23,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "537",
+    "nationality": "GER",
+    "standing_player2": "Peter Torebko",
+    "age": 33,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "538",
+    "nationality": "JPN",
+    "standing_player2": "Renta Tokuda",
+    "age": 23,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "539",
+    "nationality": "ARG",
+    "standing_player2": "Alejo Lorenzo Lingua Lavallen",
+    "age": 20,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "540",
+    "nationality": "FRA",
+    "standing_player2": "Maxime Hamou",
+    "age": 26,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "541",
+    "nationality": "USA",
+    "standing_player2": "Strong Kirchheimer",
+    "age": 26,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "542",
+    "nationality": "JPN",
+    "standing_player2": "Yusuke Takahashi",
+    "age": 24,
+    "final_rankings__points": 61
+  },
+  {
+    "final_rankings": "543",
+    "nationality": "FRA",
+    "standing_player2": "Titouan Droguet",
+    "age": 20,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "544",
+    "nationality": "FRA",
+    "standing_player2": "Tak Khunn Wang",
+    "age": 30,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "545",
+    "nationality": "JPN",
+    "standing_player2": "Sho Shimabukuro",
+    "age": 24,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "546",
+    "nationality": "UZB",
+    "standing_player2": "Sanjar Fayziev",
+    "age": 27,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "547",
+    "nationality": "USA",
+    "standing_player2": "Sekou Bangoura",
+    "age": 30,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "548",
+    "nationality": "UKR",
+    "standing_player2": "Oleg Prihodko",
+    "age": 24,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "549",
+    "nationality": "ESP",
+    "standing_player2": "Pol Toledo Bague",
+    "age": 27,
+    "final_rankings__points": 60
+  },
+  {
+    "final_rankings": "550",
+    "nationality": "FRA",
+    "standing_player2": "Valentin Royer",
+    "age": 20,
+    "final_rankings__points": 59
+  },
+  {
+    "final_rankings": "551",
+    "nationality": "ITA",
+    "standing_player2": "Federico Arnaboldi",
+    "age": 21,
+    "final_rankings__points": 59
+  },
+  {
+    "final_rankings": "552",
+    "nationality": "UKR",
+    "standing_player2": "Danylo Kalenichenko",
+    "age": 27,
+    "final_rankings__points": 59
+  },
+  {
+    "final_rankings": "553",
+    "nationality": "ITA",
+    "standing_player2": "Riccardo Balzerani",
+    "age": 23,
+    "final_rankings__points": 59
+  },
+  {
+    "final_rankings": "554",
+    "nationality": "BRA",
+    "standing_player2": "Joao Lucas Reis Da Silva",
+    "age": 21,
+    "final_rankings__points": 59
+  },
+  {
+    "final_rankings": "555",
+    "nationality": "USA",
+    "standing_player2": "Omni Kumar",
+    "age": 20,
+    "final_rankings__points": 58
+  },
+  {
+    "final_rankings": "556",
+    "nationality": "FRA",
+    "standing_player2": "Quentin Folliot",
+    "age": 22,
+    "final_rankings__points": 58
+  },
+  {
+    "final_rankings": "557",
+    "nationality": "CAN",
+    "standing_player2": "Liam Draxl",
+    "age": 20,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "558",
+    "nationality": "RUS",
+    "standing_player2": "Alexey Zakharov",
+    "age": 21,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "559",
+    "nationality": "ITA",
+    "standing_player2": "Luca Potenza",
+    "age": 21,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "560",
+    "nationality": "ISR",
+    "standing_player2": "Ben Patael",
+    "age": 24,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "561",
+    "nationality": "ARG",
+    "standing_player2": "Mariano Navone",
+    "age": 20,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "562",
+    "nationality": "TUN",
+    "standing_player2": "Moez Echargui",
+    "age": 28,
+    "final_rankings__points": 57
+  },
+  {
+    "final_rankings": "563",
+    "nationality": "IND",
+    "standing_player2": "Saketh Myneni",
+    "age": 34,
+    "final_rankings__points": 56
+  },
+  {
+    "final_rankings": "564",
+    "nationality": "GBR",
+    "standing_player2": "Brydan Klein",
+    "age": 31,
+    "final_rankings__points": 56
+  },
+  {
+    "final_rankings": "565",
+    "nationality": "IND",
+    "standing_player2": "Sidharth Rawat",
+    "age": 28,
+    "final_rankings__points": 56
+  },
+  {
+    "final_rankings": "566",
+    "nationality": "ITA",
+    "standing_player2": "Fabrizio Ornago",
+    "age": 29,
+    "final_rankings__points": 56
+  },
+  {
+    "final_rankings": "567",
+    "nationality": "AUT",
+    "standing_player2": "David Pichler",
+    "age": 25,
+    "final_rankings__points": 56
+  },
+  {
+    "final_rankings": "568",
+    "nationality": "TPE",
+    "standing_player2": "Yen-Hsun Lu",
+    "age": 38,
+    "final_rankings__points": 55
+  },
+  {
+    "final_rankings": "569",
+    "nationality": "GER",
+    "standing_player2": "Jeremy Jahn",
+    "age": 31,
+    "final_rankings__points": 55
+  },
+  {
+    "final_rankings": "570",
+    "nationality": "SUI",
+    "standing_player2": "Remy Bertola",
+    "age": 23,
+    "final_rankings__points": 55
+  },
+  {
+    "final_rankings": "571",
+    "nationality": "GEO",
+    "standing_player2": "Aleksandre Metreveli",
+    "age": 28,
+    "final_rankings__points": 55
+  },
+  {
+    "final_rankings": "572",
+    "nationality": "USA",
+    "standing_player2": "Roy Smith",
+    "age": 23,
+    "final_rankings__points": 55
+  },
+  {
+    "final_rankings": "573",
+    "nationality": "USA",
+    "standing_player2": "Ben Shelton",
+    "age": 19,
+    "final_rankings__points": 54
+  },
+  {
+    "final_rankings": "574",
+    "nationality": "MON",
+    "standing_player2": "Valentin Vacherot",
+    "age": 23,
+    "final_rankings__points": 54
+  },
+  {
+    "final_rankings": "575",
+    "nationality": "SRB",
+    "standing_player2": "Marko Tepavac",
+    "age": 27,
+    "final_rankings__points": 54
+  },
+  {
+    "final_rankings": "576",
+    "nationality": "CZE",
+    "standing_player2": "Vaclav Safranek",
+    "age": 27,
+    "final_rankings__points": 54
+  },
+  {
+    "final_rankings": "577",
+    "nationality": "ARG",
+    "standing_player2": "Roman Andres Burruchaga",
+    "age": 19,
+    "final_rankings__points": 53
+  },
+  {
+    "final_rankings": "578",
+    "nationality": "HUN",
+    "standing_player2": "Gergely Madarasz",
+    "age": 27,
+    "final_rankings__points": 53
+  },
+  {
+    "final_rankings": "579",
+    "nationality": "ROU",
+    "standing_player2": "Bogdan Ionut Apostol",
+    "age": 25,
+    "final_rankings__points": 53
+  },
+  {
+    "final_rankings": "580",
+    "nationality": "CZE",
+    "standing_player2": "Pavel Nejedly",
+    "age": 28,
+    "final_rankings__points": 53
+  },
+  {
+    "final_rankings": "581",
+    "nationality": "ITA",
+    "standing_player2": "Simone Roncalli",
+    "age": 25,
+    "final_rankings__points": 53
+  },
+  {
+    "final_rankings": "582",
+    "nationality": "COL",
+    "standing_player2": "Santiago Giraldo",
+    "age": 34,
+    "final_rankings__points": 52
+  },
+  {
+    "final_rankings": "583",
+    "nationality": "VIE",
+    "standing_player2": "Nam Hoang Ly",
+    "age": 24,
+    "final_rankings__points": 52
+  },
+  {
+    "final_rankings": "584",
+    "nationality": "IRL",
+    "standing_player2": "Simon Carr",
+    "age": 22,
+    "final_rankings__points": 52
+  },
+  {
+    "final_rankings": "585",
+    "nationality": "ECU",
+    "standing_player2": "Diego Hidalgo",
+    "age": 28,
+    "final_rankings__points": 52
+  },
+  {
+    "final_rankings": "586",
+    "nationality": "ARG",
+    "standing_player2": "Mariano Kestelboim",
+    "age": 25,
+    "final_rankings__points": 52
+  },
+  {
+    "final_rankings": "587",
+    "nationality": "AUS",
+    "standing_player2": "Jeremy Beale",
+    "age": 27,
+    "final_rankings__points": 51
+  },
+  {
+    "final_rankings": "588",
+    "nationality": "CZE",
+    "standing_player2": "Patrik Rikl",
+    "age": 22,
+    "final_rankings__points": 51
+  },
+  {
+    "final_rankings": "589",
+    "nationality": "HUN",
+    "standing_player2": "Peter Fajta",
+    "age": 19,
+    "final_rankings__points": 51
+  },
+  {
+    "final_rankings": "590",
+    "nationality": "EGY",
+    "standing_player2": "Karim-Mohamed Maamoun",
+    "age": 30,
+    "final_rankings__points": 51
+  },
+  {
+    "final_rankings": "591",
+    "nationality": "UKR",
+    "standing_player2": "Vladyslav Manafov",
+    "age": 28,
+    "final_rankings__points": 51
+  },
+  {
+    "final_rankings": "592",
+    "nationality": "NED",
+    "standing_player2": "Guy Den Ouden",
+    "age": 19,
+    "final_rankings__points": 50
+  },
+  {
+    "final_rankings": "593",
+    "nationality": "USA",
+    "standing_player2": "John McNally",
+    "age": 23,
+    "final_rankings__points": 50
+  },
+  {
+    "final_rankings": "594",
+    "nationality": "FRA",
+    "standing_player2": "Maxime Chazal",
+    "age": 28,
+    "final_rankings__points": 50
+  },
+  {
+    "final_rankings": "595",
+    "nationality": "USA",
+    "standing_player2": "Felix Corwin",
+    "age": 25,
+    "final_rankings__points": 50
+  },
+  {
+    "final_rankings": "596",
+    "nationality": "TPE",
+    "standing_player2": "Tsung-Hua Yang",
+    "age": 30,
+    "final_rankings__points": 49
+  },
+  {
+    "final_rankings": "597",
+    "nationality": "FRA",
+    "standing_player2": "Giovanni Mpetshi Perricard",
+    "age": 18,
+    "final_rankings__points": 49
+  },
+  {
+    "final_rankings": "598",
+    "nationality": "RUS",
+    "standing_player2": "Alen Avidzba",
+    "age": 21,
+    "final_rankings__points": 49
+  },
+  {
+    "final_rankings": "599",
+    "nationality": "FIN",
+    "standing_player2": "Patrik Niklas-Salminen",
+    "age": 24,
+    "final_rankings__points": 49
+  },
+  {
+    "final_rankings": "600",
+    "nationality": "FRA",
+    "standing_player2": "Antoine Cornut-Chauvinc",
+    "age": 21,
+    "final_rankings__points": 49
+  }
+]
