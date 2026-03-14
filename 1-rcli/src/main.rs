@@ -4,11 +4,17 @@ use rcli::{process_csv, Opts, SubCommand};
 
 // cargo run -- csv -i test.csv
 // cargo run csv -i assets/final_rankings_2021.csv
+// cargo run -- csv -i assets/final_rankings_2021.csv --format yaml
 fn main() -> Result<()> {
     let opts: Opts = Opts::parse();
     match opts.cmd {
         SubCommand::Csv(opts) => {
-            process_csv(&opts.input, &opts.output)?;
+            let output = if let Some(output) = opts.output {
+                output.clone()
+            } else {
+                format!("output.{}", opts.format)
+            };
+            process_csv(&opts.input, output, opts.format)?;
         }
     }
     Ok(())

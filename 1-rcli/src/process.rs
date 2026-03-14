@@ -1,8 +1,8 @@
+use crate::opts::OutputFormat;
 use anyhow::Result;
 use csv::Reader;
 use serde::{Deserialize, Serialize};
 use std::fs;
-
 #[derive(Debug, Deserialize, Serialize)]
 #[serde(rename_all = "snake_case")]
 #[allow(dead_code)]
@@ -25,15 +25,23 @@ struct Record {
     rankings_points: u32,
 }
 
-pub fn process_csv(input: &str, output: &str) -> Result<()> {
+pub fn process_csv(input: &str, output: String, format: OutputFormat) -> Result<()> {
     let mut reader = Reader::from_path(input)?;
     let mut ret = Vec::with_capacity(128);
-    for result in reader.deserialize::<Record>() {
+    let headers = reader.headers()?.clone();
+    for result in reader.records() {
         let record = result.unwrap();
-        // println!("{:?}", record);
-        ret.push(record);
+        let json_value = headers
+            .iter()
+            .zip(record.iter())
+            .collect::<serde_json::Value>();
+        ret.push(json_value);
     }
-    let json = serde_json::to_string_pretty(&ret)?;
-    fs::write(output, json)?;
+
+    let contect = match format {
+        OutputFormat::Json => serde_json::to_string_pretty(&ret)?,
+        OutputFormat::Yaml => serde_yaml::to_string(&ret)?,
+    };
+    fs::write(output, contect)?;
     Ok(())
 }
