@@ -1,8 +1,9 @@
-use crate::opts::OutputFormat;
 use anyhow::Result;
 use csv::Reader;
 use serde::{Deserialize, Serialize};
 use std::fs;
+
+use crate::cli::OutputFormat;
 #[derive(Debug, Deserialize, Serialize)]
 #[serde(rename_all = "snake_case")]
 #[allow(dead_code)]
